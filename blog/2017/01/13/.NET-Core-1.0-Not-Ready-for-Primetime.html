@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  <head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <title>.NET Core 1.0 Not Ready for Primetime</title>
+  <meta name="description" content="joseph bales, bales, joseph, developer">
+
+  <link rel="stylesheet" href="https://josephbales.com/css/main.css">
+  <link type="application/atom+xml" rel="alternate" href="https://josephbales.com/feed.xml" title="josephbales.com" />
+</head>
+
+
+  <body>
+
+    <h1><a href="https://josephbales.com/">josephbales.com</a></h1>
+<hr>
+    <article>
+
+    <header>
+        <h2>.NET Core 1.0 Not Ready for Primetime</h2>
+        <p><time
+                datetime="2017-01-13T00:00:00-06:00">Jan 13, 2017</time>
+            • <span>Joey</span></p>
+    </header>
+
+    <p><code class="highlighter-rouge">&lt;rant&gt;</code></p>
+
+<p>Well, I just spent two hours of my life getting a project running that was already working on another PC. I’m so fed up right now that I don’t really want to work on the actual project. It is an ASP.NET Core 1.0 project that I’ve been working on a few minutes at a time for the past couple of months. I’ve made so little progress that when I started running into trouble I thought about just creating a new project from scratch and copying over the files. But without a guarantee that the new project would work I decided that was not a very good solution.</p>
+
+<p>It’s actually been a few months since I’ve messed with the project. It builds and runs on my laptop, but I just built a new desktop computer and I have been doing most of my work on it, so I wanted to get the project going. I cloned it to the machine, restored the packages, and immediately ran into problems.</p>
+
+<p>The first thing I ran into was that the .Net Core SDK doesn’t get installed with Visual Studio 2015, mmmmkay. I installed that. Then the project won’t build. Turns out there were some new packages I needed that didn’t get included in my project.json, so I added those. Mind you this is the same project.json file that worked fine on my laptop. Then I spent several minutes figuring out how to get the <code class="highlighter-rouge">dotnet user-secrets</code> command working. This one was also a missing reference in my project.json. This also didn’t work on the laptop although it must have at some point in the past, otherwise I would not have been able to add my secret keys to it.</p>
+
+<p>I re-ran across the problem where if you are running the project with IIS Express and SSL in debugging mode, it won’t work until you create the self-signed certificate. It doesn’t throw an error or anything, the page just never loads. Using CTRL+F5 to start the project will get the pop-up you need to create the cert.</p>
+
+<p>Finally, I ran across a bug where EF migrations can’t deal with the boilerplate code created for use with Microsoft Identity. I had to go in and manually edit the migration code to give some fields maxlengths so that they could be used as indexes. Crazy.</p>
+
+<p>So far my experience with .NET Core has just been one thing after another like this. The tooling is standing in the way of my coding. Honestly I’m not even sure why they released .NET Core 1.0 while the tooling was still officially in preview. I mean, the tooling is still in preview 3 months later and still seems to need some work.</p>
+
+<p>I like the ideas behind .NET Core, but I’m thinking it has been a bit rushed. One of the things that really sets the Microsoft stack apart from others is how solid and cohesive it has been. I hope they can pull this shit together and get it shored up in the next few months.</p>
+
+<p>Also, while I’m ranting about Microsoft products, let me just say that their sculpt keyboard and mouse combo is not great. You can check out my review at <a href="https://www.amazon.com/gp/customer-reviews/R207405EDO9X04?ref_=cm_cr_arp_d_rvw_ttl&amp;ASIN=B00CYX53QW&amp;pldnSite=1">this link</a>.</p>
+
+<p><code class="highlighter-rouge">&lt;/rant&gt;</code></p>
+
+
+</article>
+    <footer class="site-footer">
+    <hr>
+    <p>&copy; Joseph Bales</p>
+</footer>
+
+
+    <!-- Latest compiled and minified JavaScript -->
+    <script>
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+      })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+      ga('create', 'UA-253918-1', 'auto');
+      ga('send', 'pageview');
+    </script>
+  </body>
+
+</html>
