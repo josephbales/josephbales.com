@@ -5,9 +5,9 @@
     <description></description>
     <link>https://josephbales.com/</link>
     <atom:link href="https://josephbales.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 05 May 2020 20:39:35 -0500</pubDate>
-    <lastBuildDate>Tue, 05 May 2020 20:39:35 -0500</lastBuildDate>
-    <generator>Jekyll v4.0.0</generator>
+    <pubDate>Sun, 18 Oct 2020 19:34:35 -0500</pubDate>
+    <lastBuildDate>Sun, 18 Oct 2020 19:34:35 -0500</lastBuildDate>
+    <generator>Jekyll v4.1.1</generator>
     
       <item>
         <title>Two+ Years of Updates</title>
@@ -20,7 +20,6 @@
   &lt;li&gt;&lt;a href=&quot;/blog/2014/05/17/why-im-no-longer-a-google-fanboy.html&quot;&gt;Regarding the Googles&lt;/a&gt;, I waffle on the Google fanboy stuff. I wouldn’t say I’m a fanboy of Google, but I still use Gmail and Docs. They’re damn convenient.&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;/blog/2014/12/08/the-purpose-of-twitter-bootstrap.html&quot;&gt;Regarding Bootstrap&lt;/a&gt;, if you’re using &lt;a href=&quot;https://angular.io&quot;&gt;Angular&lt;/a&gt;, do yourself a favor and use &lt;a href=&quot;https://material.angular.io&quot;&gt;Angular Material&lt;/a&gt; and skip bootstrap.&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;/blog/2017/01/13/.NET-Core-1.0-Not-Ready-for-Primetime.html&quot;&gt;Regarding .NET Core 1.0&lt;/a&gt;, .NET Core 2.1 and later are officially ready for primetime and getting better every day.&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/blog/2017/09/22/Waiting-for-the-Bubble-to-Bust-again.html&quot;&gt;Regarding economic bubbles&lt;/a&gt;, the bubble has yet to burst, but I’m still an insensitive, priviledged jerk who will throw his good credit in your face.&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;p&gt;So what’s new? I got divorced and now I am living by myself in a one bedroom apartment in Nashville, TN that costs twice what it did 10 years ago. Progress?&lt;/p&gt;
@@ -33,37 +32,14 @@
       </item>
     
       <item>
-        <title>Waiting for the Bubble to Bust Again</title>
-        <description>&lt;p&gt;Time for another non-computer related post. Yesterday, my wife and I were at the bank to get pre-approved for a car loan. Her car isn’t in great shape and with the check engine light coming on for unknown reasons, we figured it was time for a replacement (past time if you ask me).&lt;/p&gt;
-
-&lt;p&gt;At the bank we sat and chatted with the loan officer. He got our information and asked how much we made and ran our credit and asked what kind of cars we were looking at. We are actually looking for a small, economical car for my wife to drive. Her needs are fairly limited. She works from home so her car use is pretty much restricted to an occassional lunch or dinner out or trips to her boss’s house for work. That’s it. We are looking at cars like the Honda Fit, Nissan Versa, or Honda Civic. Something small that can get her around reliably, doesn’t cost a lot to work on, and gets decent gas mileage.&lt;/p&gt;
-
-&lt;p&gt;After all the paperwork was done, the loan officer had a problem. Based on our debt to income ratio, the computer wanted to give us a $70,000 car loan. We were a bit shocked at this. We are solidly middle class and doing fairly well right now, but we also still have student loans and a mortgage to get paid off and after our monthly bills we have room for a modest car payment. There is no way we could afford a $70,000 car. Assuming no down payment and a 60 month term, that’s $1100 a month!&lt;/p&gt;
-
-&lt;p&gt;The loan officer told us he could get the approval lowered, but would need to call the home office and do some wrangling to get it down. This morning he sent us the final approval. It was still for $45,000, but really this is just so we can easily get the loan taken care of once we pick a car. The value didn’t really matter to us as long as it was enough to buy a car that will probably cost around $15,000.&lt;/p&gt;
-
-&lt;p&gt;As I sat this morning and contemplated how I am going to move money around in the budget to make room for the car payment we are about to have, it really made me think about how the economic downturn happened in 2007-2009 and how easily it could happen again. How many people go to the bank for a pre-approval on a car loan and find out they can qualify for a $70,000 car and then decide to go out and buy it? It would certainly explain all the BMWs, Merecedes, giant 4-wheel drive trucks, and other expensive cars I see everyone driving these days. I have been prepping for this car purchase for a while now and already knew we had the money to make it, but how many people are out there that don’t watch their finances so closely just take their $70,000 approval and get their $70,000 car and then realize when the first payment comes due that they just screwed themselves?&lt;/p&gt;
-
-&lt;p&gt;And this doesn’t just happen with cars. I related this story to my boss at work and he told me that when he bought his house they qualified him for a $750,000 house which to him was absolutely insane.&lt;/p&gt;
-
-&lt;p&gt;The moral of this story is simple, the banks and other financial institutions learned nothing from the last economic downturn. It’s up to us, the American people, educate ourselves on finances and make smart decisions about the purchases we make and not rely on the car dealers, banks, and other places of finance for good advice. Just because you qualify for a $70,000 car doesn’t mean you can afford it or even come close!&lt;/p&gt;
-</description>
-        <pubDate>Fri, 22 Sep 2017 00:00:00 -0500</pubDate>
-        <link>https://josephbales.com/blog/2017/09/22/Waiting-for-the-Bubble-to-Bust-again.html</link>
-        <guid isPermaLink="true">https://josephbales.com/blog/2017/09/22/Waiting-for-the-Bubble-to-Bust-again.html</guid>
-        
-        
-      </item>
-    
-      <item>
         <title>.NET Core 1.0 Not Ready for Primetime</title>
-        <description>&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;&amp;lt;rant&amp;gt;&lt;/code&gt;&lt;/p&gt;
+        <description>&lt;p&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;&amp;lt;rant&amp;gt;&lt;/code&gt;&lt;/p&gt;
 
 &lt;p&gt;Well, I just spent two hours of my life getting a project running that was already working on another PC. I’m so fed up right now that I don’t really want to work on the actual project. It is an ASP.NET Core 1.0 project that I’ve been working on a few minutes at a time for the past couple of months. I’ve made so little progress that when I started running into trouble I thought about just creating a new project from scratch and copying over the files. But without a guarantee that the new project would work I decided that was not a very good solution.&lt;/p&gt;
 
 &lt;p&gt;It’s actually been a few months since I’ve messed with the project. It builds and runs on my laptop, but I just built a new desktop computer and I have been doing most of my work on it, so I wanted to get the project going. I cloned it to the machine, restored the packages, and immediately ran into problems.&lt;/p&gt;
 
-&lt;p&gt;The first thing I ran into was that the .Net Core SDK doesn’t get installed with Visual Studio 2015, mmmmkay. I installed that. Then the project won’t build. Turns out there were some new packages I needed that didn’t get included in my project.json, so I added those. Mind you this is the same project.json file that worked fine on my laptop. Then I spent several minutes figuring out how to get the &lt;code class=&quot;highlighter-rouge&quot;&gt;dotnet user-secrets&lt;/code&gt; command working. This one was also a missing reference in my project.json. This also didn’t work on the laptop although it must have at some point in the past, otherwise I would not have been able to add my secret keys to it.&lt;/p&gt;
+&lt;p&gt;The first thing I ran into was that the .Net Core SDK doesn’t get installed with Visual Studio 2015, mmmmkay. I installed that. Then the project won’t build. Turns out there were some new packages I needed that didn’t get included in my project.json, so I added those. Mind you this is the same project.json file that worked fine on my laptop. Then I spent several minutes figuring out how to get the &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;dotnet user-secrets&lt;/code&gt; command working. This one was also a missing reference in my project.json. This also didn’t work on the laptop although it must have at some point in the past, otherwise I would not have been able to add my secret keys to it.&lt;/p&gt;
 
 &lt;p&gt;I re-ran across the problem where if you are running the project with IIS Express and SSL in debugging mode, it won’t work until you create the self-signed certificate. It doesn’t throw an error or anything, the page just never loads. Using CTRL+F5 to start the project will get the pop-up you need to create the cert.&lt;/p&gt;
 
@@ -75,7 +51,7 @@
 
 &lt;p&gt;Also, while I’m ranting about Microsoft products, let me just say that their sculpt keyboard and mouse combo is not great. You can check out my review at &lt;a href=&quot;https://www.amazon.com/gp/customer-reviews/R207405EDO9X04?ref_=cm_cr_arp_d_rvw_ttl&amp;amp;ASIN=B00CYX53QW&amp;amp;pldnSite=1&quot;&gt;this link&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;&amp;lt;/rant&amp;gt;&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;&amp;lt;/rant&amp;gt;&lt;/code&gt;&lt;/p&gt;
 </description>
         <pubDate>Fri, 13 Jan 2017 00:00:00 -0600</pubDate>
         <link>https://josephbales.com/blog/2017/01/13/.NET-Core-1.0-Not-Ready-for-Primetime.html</link>
@@ -88,7 +64,7 @@
         <title>MVCGrid.Net</title>
         <description>&lt;p&gt;I didn’t want an entire year to go by without writing a post, so I thought that I would talk a little bit about a neat little tool I found for displaying grid data in ASP.NET MVC 5 projects. It’s called &lt;a href=&quot;http://mvcgrid.net/&quot; title=&quot;MVCGrid.Net&quot;&gt;MVCGrid.Net&lt;/a&gt;. I say “neat little tool,” but it’s actually quite powerful now that I know more about how to use it.&lt;/p&gt;
 
-&lt;p&gt;For styling it uses &lt;a href=&quot;http://getbootstrap.com/&quot; title=&quot;Bootstrap&quot;&gt;Bootstrap&lt;/a&gt; so that makes it easy for me since I already use Bootstrap for basic styling. It also includes a DLL where most of the magic happens and the configuration happens in a &lt;code class=&quot;highlighter-rouge&quot;&gt;MVCGridConfig.cs&lt;/code&gt; file that you include in your &lt;code class=&quot;highlighter-rouge&quot;&gt;App_Start&lt;/code&gt; folder.&lt;/p&gt;
+&lt;p&gt;For styling it uses &lt;a href=&quot;http://getbootstrap.com/&quot; title=&quot;Bootstrap&quot;&gt;Bootstrap&lt;/a&gt; so that makes it easy for me since I already use Bootstrap for basic styling. It also includes a DLL where most of the magic happens and the configuration happens in a &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;MVCGridConfig.cs&lt;/code&gt; file that you include in your &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;App_Start&lt;/code&gt; folder.&lt;/p&gt;
 
 &lt;p&gt;It allows all kinds of automagic functionality like sorting, paging, filtering, and exporting. You can also allow customized fields and page sizes. A lot of this stuff is built in, but you can also write your own rendering engine and razor templates that will allow you to do whatever it is you want.&lt;/p&gt;
 
@@ -111,15 +87,15 @@
 
 &lt;p&gt;I am using .NET and C# to do the data extraction and translating, but I’ve run into an issue on several tables that has perplexed me for some time. It is the error message that I’ve used as the title of this post:&lt;/p&gt;
 
-&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;Error converting data type DBTYPE_DBTIMESTAMP to datetime2.&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;Error converting data type DBTYPE_DBTIMESTAMP to datetime2.&lt;/code&gt;&lt;/p&gt;
 
-&lt;p&gt;No matter how I was trying to get at the data, I kept getting this error. I tried &lt;a href=&quot;https://msdn.microsoft.com/en-us/library/ms187928.aspx&quot; target=&quot;_blank&quot;&gt;CAST and CONVERT&lt;/a&gt; SQL commands. I tried &lt;a href=&quot;https://msdn.microsoft.com/en-us/library/ms162802.aspx&quot; target=&quot;_blank&quot;&gt;BCP&lt;/a&gt;. I tried using &lt;a href=&quot;https://msdn.microsoft.com/en-us/library/ms188029.aspx&quot; target=&quot;_blank&quot;&gt;SELECT INTO&lt;/a&gt;. I tried &lt;a href=&quot;https://msdn.microsoft.com/en-us/library/system.data.sqlclient.sqlbulkcopy(v=vs.110).aspx&quot; target=&quot;_blank&quot;&gt;SqlBulkCopy&lt;/a&gt;. I finally got all the way down to using an &lt;a href=&quot;https://msdn.microsoft.com/en-us/library/system.data.odbc.odbcdatareader(v=vs.110).aspx&quot; target=&quot;_blank&quot;&gt;OdbcDataReader&lt;/a&gt; object to try to move the data, but I kept getting the error when I used &lt;code class=&quot;highlighter-rouge&quot;&gt;reader[index].ToString()&lt;/code&gt; to access the data.&lt;/p&gt;
+&lt;p&gt;No matter how I was trying to get at the data, I kept getting this error. I tried &lt;a href=&quot;https://msdn.microsoft.com/en-us/library/ms187928.aspx&quot; target=&quot;_blank&quot;&gt;CAST and CONVERT&lt;/a&gt; SQL commands. I tried &lt;a href=&quot;https://msdn.microsoft.com/en-us/library/ms162802.aspx&quot; target=&quot;_blank&quot;&gt;BCP&lt;/a&gt;. I tried using &lt;a href=&quot;https://msdn.microsoft.com/en-us/library/ms188029.aspx&quot; target=&quot;_blank&quot;&gt;SELECT INTO&lt;/a&gt;. I tried &lt;a href=&quot;https://msdn.microsoft.com/en-us/library/system.data.sqlclient.sqlbulkcopy(v=vs.110).aspx&quot; target=&quot;_blank&quot;&gt;SqlBulkCopy&lt;/a&gt;. I finally got all the way down to using an &lt;a href=&quot;https://msdn.microsoft.com/en-us/library/system.data.odbc.odbcdatareader(v=vs.110).aspx&quot; target=&quot;_blank&quot;&gt;OdbcDataReader&lt;/a&gt; object to try to move the data, but I kept getting the error when I used &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;reader[index].ToString()&lt;/code&gt; to access the data.&lt;/p&gt;
 
 &lt;p&gt;But then I noticed there was a method called &lt;a href=&quot;https://msdn.microsoft.com/en-us/library/system.data.odbc.odbcdatareader.getstring(v=vs.110).aspx&quot; target=&quot;_blank&quot;&gt;GetString&lt;/a&gt; in the OdbcDataReader object. I tried it and by golly it worked! (If you have been wondering what the cause of this error has been all along, it is an invalid date that was entered into the database with the year 0000). Yes, it worked, but it worked sloooooooow. Veeeeery slow. It was processing about 2 records per second, which isn’t too bad until you scale that up to over 1.1 million records. The time to extract just that one table would be over 6 days! That would not do.&lt;/p&gt;
 
 &lt;p&gt;I sat on it for a few days and thought about all the potential solutions. I could bulk copy all the rows except the ones in question, but then I’d have to go through each table and find the culprit(s) and write special select statements to exclude those rows, then special select statements to grab those rows minus the offending fields. Then I’d have to update my table with the omitted records. Not something I really wanted to do.&lt;/p&gt;
 
-&lt;p&gt;Then today I noticed that when I used the &lt;code class=&quot;highlighter-rouge&quot;&gt;reader[index].ToString()&lt;/code&gt; method to get the data, it came out at a much faster, more acceptable speed. Okay, so what if I wrap that in a try block and then in the catch block I use the slower GetString method? If that worked then only the offending data would get extracted using the slow GetString method and everything else would use the other method. And what do you know, it DID work! Here’s the code for posterity (yeah, I’m stripping out all the new lines and spaces).&lt;/p&gt;
+&lt;p&gt;Then today I noticed that when I used the &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;reader[index].ToString()&lt;/code&gt; method to get the data, it came out at a much faster, more acceptable speed. Okay, so what if I wrap that in a try block and then in the catch block I use the slower GetString method? If that worked then only the offending data would get extracted using the slow GetString method and everything else would use the other method. And what do you know, it DID work! Here’s the code for posterity (yeah, I’m stripping out all the new lines and spaces).&lt;/p&gt;
 
 &lt;div class=&quot;language-csharp highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;k&quot;&gt;while&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;reader&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nf&quot;&gt;Read&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;())&lt;/span&gt;
 &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
@@ -178,7 +154,7 @@ DocumentRoot /usr/local/www/apache24/data/example2.com
 
 &lt;p&gt;Once you’ve edited your file, simply write it out and restart the Apache service to pick up the new settings.&lt;/p&gt;
 
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;sudo service apache24 restart
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;sudo service apache24 restart
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 
 &lt;p&gt;And it’s that simple! For more detailed documentation on Virtual Hosts you should read the official &lt;a title=&quot;Apache Virtual Hosts documentation link&quot; href=&quot;http://httpd.apache.org/docs/2.4/vhosts/&quot; target=&quot;_blank&quot;&gt;Apache documentation&lt;/a&gt;. Have fun with it!&lt;/p&gt;
@@ -278,6 +254,34 @@ DocumentRoot /usr/local/www/apache24/data/example2.com
         <pubDate>Wed, 12 Jun 2013 00:00:00 -0500</pubDate>
         <link>https://josephbales.com/blog/2013/06/12/webs-dead-baby-part-2.html</link>
         <guid isPermaLink="true">https://josephbales.com/blog/2013/06/12/webs-dead-baby-part-2.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Web’s Dead, Baby: Part 1</title>
+        <description>&lt;p&gt;Twenty two years is a good run for most technology these days. In fact it’s a phenomenal run. That’s how long the &lt;a href=&quot;http://en.wikipedia.org/wiki/World_Wide_Web&quot; target=&quot;_blank&quot;&gt;World Wide Web&lt;/a&gt; has been in existence. But I’m here today to tell you that the web as we know it is DEAD! (The irony of making this statement in a weblog post does not escape me.) What killed the web? How did it die? Is this the end of all things? Come close and I’ll tell you the story of the end of the web, but first, a little history.&lt;/p&gt;
+
+&lt;p&gt;The web has become synonymous with the &lt;a href=&quot;http://en.wikipedia.org/wiki/Internet&quot; target=&quot;_blank&quot;&gt;Internet&lt;/a&gt;. When people today talk about the Internet, they are talking about the World Wide Web (henceforth, I’ll just call it the web). But the Internet is actually more than just the web. It is a large network of computers that use a number of protocols and services to exchange information. &lt;a href=&quot;http://en.wikipedia.org/wiki/Email&quot; target=&quot;_blank&quot;&gt;Email&lt;/a&gt; is the prime example often given of a non-web Internet service, although it can now be accessed through the web. The Internet is more the connections between the computers than it is the content. Here are a list of some Internet services, both living and dead, that you might know.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://en.wikipedia.org/wiki/Usenet&quot; target=&quot;_blank&quot;&gt;Usenet&lt;/a&gt; - This is the original Internet discussion forum. Thousands of Usenet groups were created for topics ranging from computing to German fetish porn. In fact the web was &lt;a href=&quot;http://en.wikipedia.org/wiki/History_of_the_World_Wide_Web&quot; target=&quot;_blank&quot;&gt;first announced&lt;/a&gt; on a group called alt.hypertext.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://en.wikipedia.org/wiki/Gopher_(protocol)&quot; target=&quot;_blank&quot;&gt;Gopher&lt;/a&gt; - This is a (mostly) dead Internet service that was very similar to the early web. It was text based like the early web, but instead of &lt;a href=&quot;http://en.wikipedia.org/wiki/Hyperlinks&quot; target=&quot;_blank&quot;&gt;hyperlinks&lt;/a&gt;, it used numbered menus for navigation. (I am old enough to remember and have used Gopher. I actually preferred it to the web in my early Internet dealings.)&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://en.wikipedia.org/wiki/Irc&quot; target=&quot;_blank&quot;&gt;Internet Relay Chat (IRC)&lt;/a&gt; - Before Facetime, Hangouts, Skype, or even AIM and Yahoo Messenger, IRC was where people came to chat with other netizens (remember when that was a word?).&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://en.wikipedia.org/wiki/Ftp&quot; target=&quot;_blank&quot;&gt;File Transfer Protocol (FTP)&lt;/a&gt; - This was an early, and still in use Internet protocol for file sharing. In the days before &lt;a href=&quot;http://en.wikipedia.org/wiki/BitTorrent&quot; target=&quot;_blank&quot;&gt;BitTorrent&lt;/a&gt; and the Pirate Bay, anonymous FTP servers were where the pirates went to trade their &lt;a href=&quot;http://en.wikipedia.org/wiki/Warez&quot; target=&quot;_blank&quot;&gt;warez&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Before the web these were the main services that were used on the Internet. They were all text based and text information was the main thing being shared on most of them. If you wanted a richer multimedia experience, early Internet consumers turned to services like &lt;a href=&quot;http://en.wikipedia.org/wiki/AOL#History&quot; target=&quot;_blank&quot;&gt;America Online&lt;/a&gt;, &lt;a href=&quot;http://en.wikipedia.org/wiki/Compuserve&quot; target=&quot;_blank&quot;&gt;CompuServe&lt;/a&gt;, and &lt;a href=&quot;http://en.wikipedia.org/wiki/Prodigy_(online_service)&quot; target=&quot;_blank&quot;&gt;Prodigy&lt;/a&gt;. They offered &lt;a href=&quot;http://en.wikipedia.org/wiki/Walled_garden_(technology)&quot; target=&quot;_blank&quot;&gt;walled gardens&lt;/a&gt; of multimedia content.&lt;/p&gt;
+
+&lt;p&gt;But then came the web. At first it was text based too, but multimedia was quickly added. With the advent of the graphical &lt;a href=&quot;http://en.wikipedia.org/wiki/Mosaic_(web_browser)&quot; target=&quot;_blank&quot;&gt;Mosaic web browser&lt;/a&gt;, then &lt;a href=&quot;http://en.wikipedia.org/wiki/Netscape_Navigator&quot; target=&quot;_blank&quot;&gt;Netscape Navigator&lt;/a&gt;, and finally &lt;a href=&quot;http://en.wikipedia.org/wiki/Internet_Explorer&quot; target=&quot;_blank&quot;&gt;Internet Explorer&lt;/a&gt;, the web took off like a rocket. Standards bodies were set up and mostly agreed upon and the golden age of the web began.&lt;/p&gt;
+
+&lt;p&gt;From the mid-90s to about the year 2000 the web grew at a tremendous rate, but after that the newness started to wear off. People began to wonder what was next for the web. In 1999 a new term was coined, &lt;a href=&quot;http://en.wikipedia.org/wiki/Web_2.0&quot; target=&quot;_blank&quot;&gt;Web 2.0&lt;/a&gt;. This term referred to the use of dynamic content on web sites (until that point most web content was just static content on a page). Web 2.0 allowed the web consumer to interact with content. We were on the verge of a new golden age, but there was a threat. After crushing Netscape Navigator in the &lt;a href=&quot;http://en.wikipedia.org/wiki/Browser_wars&quot; target=&quot;_blank&quot;&gt;great browser wars&lt;/a&gt;, Microsoft allowed it’s browser Internet Explorer to languish. Innovation ground to a halt and web developers spent most of their time writing around rendering errors in IE’s browsing engine. Finally, in 2003 a new web browser called Firefox rose from the ashes to challenge IE and allowed Web 2.0 to reach its full potential.&lt;/p&gt;
+
+&lt;p&gt;Okay, now the history lesson’s over. We get to the heart of it in Part 2!&lt;/p&gt;
+</description>
+        <pubDate>Sun, 26 May 2013 00:00:00 -0500</pubDate>
+        <link>https://josephbales.com/blog/2013/05/26/webs-dead-baby-part-1.html</link>
+        <guid isPermaLink="true">https://josephbales.com/blog/2013/05/26/webs-dead-baby-part-1.html</guid>
         
         
       </item>
