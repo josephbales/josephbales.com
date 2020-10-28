@@ -5,8 +5,8 @@
     <description></description>
     <link>https://josephbales.com/</link>
     <atom:link href="https://josephbales.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 18 Oct 2020 22:44:54 -0500</pubDate>
-    <lastBuildDate>Sun, 18 Oct 2020 22:44:54 -0500</lastBuildDate>
+    <pubDate>Tue, 27 Oct 2020 22:12:32 -0500</pubDate>
+    <lastBuildDate>Tue, 27 Oct 2020 22:12:32 -0500</lastBuildDate>
     <generator>Jekyll v4.1.1</generator>
     
       <item>
@@ -44,7 +44,7 @@
   &lt;li&gt;&lt;a href=&quot;/blog/2013/05/26/webs-dead-baby-part-1.html&quot;&gt;Regarding the interwebs&lt;/a&gt; , it’s still dead, despite this very blog post.&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;/blog/2014/05/17/why-im-no-longer-a-google-fanboy.html&quot;&gt;Regarding the Googles&lt;/a&gt;, I waffle on the Google fanboy stuff. I wouldn’t say I’m a fanboy of Google, but I still use Gmail and Docs. They’re damn convenient.&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;/blog/2014/12/08/the-purpose-of-twitter-bootstrap.html&quot;&gt;Regarding Bootstrap&lt;/a&gt;, if you’re using &lt;a href=&quot;https://angular.io&quot;&gt;Angular&lt;/a&gt;, do yourself a favor and use &lt;a href=&quot;https://material.angular.io&quot;&gt;Angular Material&lt;/a&gt; and skip bootstrap.&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/blog/2017/01/13/.NET-Core-1.0-Not-Ready-for-Primetime.html&quot;&gt;Regarding .NET Core 1.0&lt;/a&gt;, .NET Core 2.1 and later are officially ready for primetime and getting better every day.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/blog/2017/01/13/NET-Core-1.0-Not-Ready-for-Primetime.html&quot;&gt;Regarding .NET Core 1.0&lt;/a&gt;, .NET Core 2.1 and later are officially ready for primetime and getting better every day.&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;p&gt;So what’s new? I got divorced and now I am living by myself in a one bedroom apartment in Nashville, TN that costs twice what it did 10 years ago. Progress?&lt;/p&gt;
@@ -79,8 +79,8 @@
 &lt;p&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;&amp;lt;/rant&amp;gt;&lt;/code&gt;&lt;/p&gt;
 </description>
         <pubDate>Fri, 13 Jan 2017 00:00:00 -0600</pubDate>
-        <link>https://josephbales.com/blog/2017/01/13/.NET-Core-1.0-Not-Ready-for-Primetime.html</link>
-        <guid isPermaLink="true">https://josephbales.com/blog/2017/01/13/.NET-Core-1.0-Not-Ready-for-Primetime.html</guid>
+        <link>https://josephbales.com/blog/2017/01/13/NET-Core-1.0-Not-Ready-for-Primetime.html</link>
+        <guid isPermaLink="true">https://josephbales.com/blog/2017/01/13/NET-Core-1.0-Not-Ready-for-Primetime.html</guid>
         
         
       </item>

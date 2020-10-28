@@ -60,8 +60,12 @@ blockquote:after {
     display: block;
     clear: both;
 }
-.posted-on {
+.posted-on .last-updated {
     font-style: italic;
+}
+.blog-list-date {
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
 }
 @media screen and (max-width: 500px) {
     body {
