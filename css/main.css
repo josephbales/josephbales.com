@@ -60,7 +60,7 @@ blockquote:after {
     display: block;
     clear: both;
 }
-.posted-on .last-updated {
+.posted-on, .last-updated {
     font-style: italic;
 }
 .blog-list-date {
