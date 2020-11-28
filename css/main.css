@@ -2,7 +2,7 @@ html {
     background-color: #fcffe9;
 }
 body {
-    font-family: Open Sans, Arial;
+    font-family: Noto Sans, Open Sans, Arial;
     color: #454545;
     font-size: 16px;
     margin: 2em auto;
@@ -82,5 +82,13 @@ blockquote:after {
     blockquote author:before {
         content: "";
         margin-right: inherit;
+    }
+}
+@media (prefers-color-scheme: dark) {
+    html {
+        background-color: #051505;
+    }
+    body {
+        color: #ccc;
     }
 }

@@ -5,8 +5,8 @@
     <description></description>
     <link>https://josephbales.com/</link>
     <atom:link href="https://josephbales.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 27 Oct 2020 22:24:56 -0500</pubDate>
-    <lastBuildDate>Tue, 27 Oct 2020 22:24:56 -0500</lastBuildDate>
+    <pubDate>Fri, 27 Nov 2020 23:08:10 -0600</pubDate>
+    <lastBuildDate>Fri, 27 Nov 2020 23:08:10 -0600</lastBuildDate>
     <generator>Jekyll v4.1.1</generator>
     
       <item>
@@ -15,7 +15,7 @@
 
 &lt;p&gt;Oh wow, nearly another whole year has passed since my last blog post. If you are an infrequent visitor you may have noticed that I’ve simplified the design of the site quite a bit. For several years this blog has been sporting a &lt;a href=&quot;https://getbootstrap.com/&quot;&gt;Bootstrap&lt;/a&gt; based theme. While bootstrap themes make things easier (especially when using something like &lt;a href=&quot;https://bootswatch.com/&quot;&gt;Bootswatch&lt;/a&gt; hosted from a &lt;a href=&quot;https://en.wikipedia.org/wiki/Content_delivery_network&quot;&gt;CDN&lt;/a&gt;), it also adds a lot of overhead for what amounts to eye candy.  While eye candy has its place, that place isn’t on the personal web site of a developer. I’m taking my inspiration from such famous developers as &lt;a href=&quot;http://stallman.org/&quot;&gt;Richard Stallman&lt;/a&gt; and &lt;a href=&quot;https://www-cs-faculty.stanford.edu/~knuth/&quot;&gt;Donald Knuth&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;While the argument could be made that these are a couple of old school developers who haven’t bothered, either intentionally or unintentionally, to keep up with modern design concepts, I do not think that is a valid argument because of one thing, content is king. Content was originally what the web and the internet in general were all about. No one is really coming here to see what new theme I’ve picked or the 2 hours I spent making it look “just so.” People come here to find out what I’ve beeing doing by reading about it in the content of these pages.&lt;/p&gt;
+&lt;p&gt;While the argument could be made that these are a couple of old school developers who haven’t bothered, either intentionally or unintentionally, to keep up with modern design concepts, I do not think that is a valid argument because of one thing, content is king. Content was originally what the web and the internet in general were all about. No one is really coming here to see what new theme I’ve picked or the 2 hours I spent making it look “just so.” People come here to find out what I’ve being doing by reading about it in the content of these pages.&lt;/p&gt;
 
 &lt;p&gt;My real objective here was very simple. I wanted to have a web site that was extremely minimal when it came to styling and features and I wanted it to load so quickly that it would seem almost instantaneous. I would say that my goal has been accomplished. There are almost no images that load on this site. There are no fonts. There are no cookies or other forms of client side storage taking place. There are no CSS files that load from a CDN. Everything is hosted locally in static HTML and CSS files, and that’s it.&lt;/p&gt;
 
