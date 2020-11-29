@@ -2,7 +2,7 @@ html {
     background-color: #fcffe9;
 }
 body {
-    font-family: Noto Sans, Open Sans, Arial;
+    font-family: Hack, "Noto Sans", "Open Sans", Arial, Sans-serif;
     color: #454545;
     font-size: 16px;
     margin: 2em auto;
