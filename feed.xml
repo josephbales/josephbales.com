@@ -5,8 +5,8 @@
     <description></description>
     <link>https://josephbales.com/</link>
     <atom:link href="https://josephbales.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 27 Nov 2020 23:08:10 -0600</pubDate>
-    <lastBuildDate>Fri, 27 Nov 2020 23:08:10 -0600</lastBuildDate>
+    <pubDate>Sun, 29 Nov 2020 04:18:11 +0000</pubDate>
+    <lastBuildDate>Sun, 29 Nov 2020 04:18:11 +0000</lastBuildDate>
     <generator>Jekyll v4.1.1</generator>
     
       <item>
@@ -27,7 +27,7 @@
 
 &lt;p&gt;Even if we successfully remove Trump from office, it’s still not going to clean things up. We will have to hold whoever the next President is to a higher standard and work hard to get them to start making government work for the largest portion of people that it governs.&lt;/p&gt;
 </description>
-        <pubDate>Sun, 18 Oct 2020 00:00:00 -0500</pubDate>
+        <pubDate>Sun, 18 Oct 2020 00:00:00 +0000</pubDate>
         <link>https://josephbales.com/blog/2020/10/18/cleaning-up-this-mess.html</link>
         <guid isPermaLink="true">https://josephbales.com/blog/2020/10/18/cleaning-up-this-mess.html</guid>
         
@@ -49,7 +49,7 @@
 
 &lt;p&gt;So what’s new? I got divorced and now I am living by myself in a one bedroom apartment in Nashville, TN that costs twice what it did 10 years ago. Progress?&lt;/p&gt;
 </description>
-        <pubDate>Thu, 05 Dec 2019 00:00:00 -0600</pubDate>
+        <pubDate>Thu, 05 Dec 2019 00:00:00 +0000</pubDate>
         <link>https://josephbales.com/blog/2019/12/05/Two-Years-of-Updates.html</link>
         <guid isPermaLink="true">https://josephbales.com/blog/2019/12/05/Two-Years-of-Updates.html</guid>
         
@@ -78,7 +78,7 @@
 
 &lt;p&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;&amp;lt;/rant&amp;gt;&lt;/code&gt;&lt;/p&gt;
 </description>
-        <pubDate>Fri, 13 Jan 2017 00:00:00 -0600</pubDate>
+        <pubDate>Fri, 13 Jan 2017 00:00:00 +0000</pubDate>
         <link>https://josephbales.com/blog/2017/01/13/NET-Core-1.0-Not-Ready-for-Primetime.html</link>
         <guid isPermaLink="true">https://josephbales.com/blog/2017/01/13/NET-Core-1.0-Not-Ready-for-Primetime.html</guid>
         
@@ -97,7 +97,7 @@
 
 &lt;p&gt;The best thing is that it is free, open source (using the MIT license), and fairly well documented. Check it out if you are in need of something to help you get sortable grids up and running quickly in ASP.NET MVC 5.&lt;/p&gt;
 </description>
-        <pubDate>Mon, 12 Dec 2016 00:00:00 -0600</pubDate>
+        <pubDate>Mon, 12 Dec 2016 00:00:00 +0000</pubDate>
         <link>https://josephbales.com/blog/2016/12/12/Free-Grid-Sorting-in-ASP.NET-MVC-5.html</link>
         <guid isPermaLink="true">https://josephbales.com/blog/2016/12/12/Free-Grid-Sorting-in-ASP.NET-MVC-5.html</guid>
         
@@ -140,7 +140,7 @@
 &lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 </description>
-        <pubDate>Tue, 15 Sep 2015 00:00:00 -0500</pubDate>
+        <pubDate>Tue, 15 Sep 2015 00:00:00 +0000</pubDate>
         <link>https://josephbales.com/blog/2015/09/15/error-converting-data-type-dbtype_dbtimestamp-to-datetime2.html</link>
         <guid isPermaLink="true">https://josephbales.com/blog/2015/09/15/error-converting-data-type-dbtype_dbtimestamp-to-datetime2.html</guid>
         
@@ -184,7 +184,7 @@ DocumentRoot /usr/local/www/apache24/data/example2.com
 
 &lt;p&gt;And it’s that simple! For more detailed documentation on Virtual Hosts you should read the official &lt;a title=&quot;Apache Virtual Hosts documentation link&quot; href=&quot;http://httpd.apache.org/docs/2.4/vhosts/&quot; target=&quot;_blank&quot;&gt;Apache documentation&lt;/a&gt;. Have fun with it!&lt;/p&gt;
 </description>
-        <pubDate>Fri, 03 Apr 2015 00:00:00 -0500</pubDate>
+        <pubDate>Fri, 03 Apr 2015 00:00:00 +0000</pubDate>
         <link>https://josephbales.com/blog/2015/04/03/setting-up-apache-virtual-hosts-on-freebsd-10-1.html</link>
         <guid isPermaLink="true">https://josephbales.com/blog/2015/04/03/setting-up-apache-virtual-hosts-on-freebsd-10-1.html</guid>
         
@@ -203,7 +203,7 @@ DocumentRoot /usr/local/www/apache24/data/example2.com
 
 &lt;p&gt;Now when I build a site I vow to do as little of that crap as possible. Now I’m going to use Bootstrap for what it was intended: to leave the style to designers and let the blogger/developer blog and develop.&lt;/p&gt;
 </description>
-        <pubDate>Mon, 08 Dec 2014 00:00:00 -0600</pubDate>
+        <pubDate>Mon, 08 Dec 2014 00:00:00 +0000</pubDate>
         <link>https://josephbales.com/blog/2014/12/08/the-purpose-of-twitter-bootstrap.html</link>
         <guid isPermaLink="true">https://josephbales.com/blog/2014/12/08/the-purpose-of-twitter-bootstrap.html</guid>
         
@@ -226,7 +226,7 @@ DocumentRoot /usr/local/www/apache24/data/example2.com
 
 &lt;p&gt;I don’t want this blog to become Google bashing central and my intent is not to bash Google. As a company Google is no better or worse than any other large corporation. I’m simply stating what my issues with Google are and why I am personally trying to move in another direction. The simple fact is they just aren’t capturing my enthusiasm anymore.&lt;/p&gt;
 </description>
-        <pubDate>Sat, 17 May 2014 00:00:00 -0500</pubDate>
+        <pubDate>Sat, 17 May 2014 00:00:00 +0000</pubDate>
         <link>https://josephbales.com/blog/2014/05/17/why-im-no-longer-a-google-fanboy.html</link>
         <guid isPermaLink="true">https://josephbales.com/blog/2014/05/17/why-im-no-longer-a-google-fanboy.html</guid>
         
@@ -245,7 +245,7 @@ DocumentRoot /usr/local/www/apache24/data/example2.com
 
 &lt;p&gt;The real key is figuring out what the administrative user for the account is. If you just have one user, it may not be that user which was what was happening in my case. The admin user is admin@your-domain.com or possibly superuser@your-domain.com (where your-domain.com is your actual domain). The user “admin” worked for me.  Instead of signing in as my normal user, I signed in as admin and was able to follow the instructions for the search results I mentioned above. It might help to do this in Privacy Mode in whatever browser you happen to be using, just to make sure browser cookies are not accidentally logging you in as someone else.  Hope this helps all you people out there.&lt;/p&gt;
 </description>
-        <pubDate>Fri, 29 Nov 2013 00:00:00 -0600</pubDate>
+        <pubDate>Fri, 29 Nov 2013 00:00:00 +0000</pubDate>
         <link>https://josephbales.com/blog/2013/11/29/deleting-your-google-apps-for-your-domain-account.html</link>
         <guid isPermaLink="true">https://josephbales.com/blog/2013/11/29/deleting-your-google-apps-for-your-domain-account.html</guid>
         
@@ -276,7 +276,7 @@ DocumentRoot /usr/local/www/apache24/data/example2.com
 
 &lt;p&gt;Sure, the web is still around, and it will be for years and years to come, but it’s dead. Like magma that has cooled and solidified, the web sits and awaits its fate. And the freedom and the openness of the web? They’re slipping away too. The time when all you needed was a browser window to look into the vastness of all human intellect is fading into history. So when your grandkids ask you what the web was, you’ll just tell them, “&lt;a href=&quot;http://youtu.be/y7Yp2L6c2KM&quot; target=&quot;_blank&quot;&gt;The Web’s dead, baby. The Web’s dead.&lt;/a&gt;”&lt;/p&gt;
 </description>
-        <pubDate>Wed, 12 Jun 2013 00:00:00 -0500</pubDate>
+        <pubDate>Wed, 12 Jun 2013 00:00:00 +0000</pubDate>
         <link>https://josephbales.com/blog/2013/06/12/webs-dead-baby-part-2.html</link>
         <guid isPermaLink="true">https://josephbales.com/blog/2013/06/12/webs-dead-baby-part-2.html</guid>
         
