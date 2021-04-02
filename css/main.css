@@ -1,8 +1,9 @@
 html {
-    background-color: #fcffe9;
+    background-color: #fcfcfc;
 }
 body {
-    font-family: Hack, "Noto Sans", "Open Sans", Arial, Sans-serif;
+    font-family: "Noto Sans", "Open Sans", Arial, Sans-serif;
+    background-color: #eeeeee;
     color: #454545;
     font-size: 16px;
     margin: 2em auto;
@@ -11,10 +12,10 @@ body {
     line-height: 1.4;
 }
 a {
-    color: #07a;
+    color: rgb(0, 119, 170);
 }
 a:visited {
-    color: #941352;
+    color: rgb(0, 76, 109);
 }
 small {
     font-size: 0.4em;
@@ -86,9 +87,16 @@ blockquote:after {
 }
 @media (prefers-color-scheme: dark) {
     html {
-        background-color: #051505;
+        background-color: #000000;
     }
     body {
+        background-color: #222222;
         color: #ccc;
+    }
+    a {
+        color: rgb(0, 170, 50);
+    }
+    a:visited {
+        color: rgb(25, 90, 25);
     }
 }
