@@ -1,117 +1,25 @@
-html {
-    background-color: #fcfcfc;
+/* Global CSS variables */
+:root {
+    --primary: #43a047;
 }
-body {
-    font-family: "Noto Sans", "Open Sans", Arial, Sans-serif;
-    background-color: #eeeeee;
-    color: #454545;
-    font-size: 16px;
-    margin: 2em auto;
-    max-width: 800px;
-    padding: 1.4em;
-    line-height: 1.4;
-    border-radius: 1.4em;
+
+.main-nav-menu {
+    background-color: #394046;
+    background-image: url('/assets/jbc_top_image.jpg');
+    background-position: center;
+    background-size: cover;
 }
-a {
-    color: rgb(0, 119, 170);
-}
-a:visited {
-    color: rgb(0, 76, 109);
-}
-small {
-    font-size: 0.4em;
-}
-ul li img {
-    height: 1em;
-}
-blockquote {
-    color: #456;
-    margin-left: 0;
-    margin-top: 2em;
-    margin-bottom: 2em;
-}
-blockquote span {
-    float: left;
-    margin-left: 1rem;
-    padding-top: 1rem;
-}
-blockquote author {
-    display: block;
-    clear: both;
-    font-size: 0.6em;
-    margin-left: 2.4rem;
-    font-style: oblique;
-}
-blockquote author:before {
-    content: "- ";
-    margin-right: 1em;
-}
-blockquote:before {
-    font-family: "Times New Roman", Times, serif;
-    color: #666;
-    content: open-quote;
-    font-size: 2.2em;
-    font-weight: 600;
-    float: left;
+
+article {
     margin-top: 0;
-    margin-right: 0.2rem;
-    width: 1.2rem;
+    margin-bottom: 0;
 }
-blockquote:after {
-    content: "";
-    display: block;
-    clear: both;
+
+article h2 {
+    margin-top: 0;
+    margin-bottom: 0;
 }
-pre {
-    overflow: scroll;
-}
-.footer-container {
-    margin-top: 1em;
-}
-.blog-article-list {
-    white-space: nowrap;
-    overflow-x: hidden;
-}
-h1.site-title {
-    margin: 0;
-    margin-bottom: 0.5em;
-}
-.posted-on, .last-updated {
-    font-style: italic;
-}
-.blog-list-date {
-    font-family: Hack, "Courier New", Courier, monospace;
-    font-weight: bold;
-}
-@media screen and (max-width: 500px) {
-    body {
-        text-align: left;
-    }
-    blockquote span {
-        width: 80%;
-    }
-    blockquote author {
-        padding-top: 1em;
-        width: 80%;
-        margin-left: 15%;
-    }
-    blockquote author:before {
-        content: "";
-        margin-right: inherit;
-    }
-}
-@media (prefers-color-scheme: dark) {
-    html {
-        background-color: #000000;
-    }
-    body {
-        background-color: #222222;
-        color: #ccc;
-    }
-    a {
-        color: rgb(0, 170, 50);
-    }
-    a:visited {
-        color: rgb(25, 90, 25);
-    }
+
+footer.container {
+    padding-top: 0;
 }
