@@ -9,8 +9,9 @@
   <title>Table of Contents</title>
   <meta name="description" content="joseph bales, bales, joseph, developer">
 
-  <link rel="stylesheet" href="https://unpkg.com/@picocss/pico@latest/css/pico.min.css">
-  <link rel="stylesheet" href="https://josephbales.com/css/main.css">
+  <link rel="stylesheet" href="https://josephbales.com/css/solar.min.css">
+  <script src="https://josephbales.com/js/bootstrap.bundle.min.js"></script>
+  <!-- <link rel="stylesheet" href="https://josephbales.com/css/main.css"> -->
 
   <link type="application/atom+xml" rel="alternate" href="https://josephbales.com/feed.xml" title="josephbales.com" />
 </head>
@@ -18,24 +19,32 @@
 
   <body>
 
-    <nav class="container-fluid main-nav-menu">
-    <ul>
-        <li><a href="https://josephbales.com/" class="contrast" ><strong>josephbales.com</strong></a></li>
-    </ul>
-    <ul>
-        <li><a href="/blog" class="contrast">Blog</a></li>
-        <li><a href="/about" class="contrast">About</a></li>
-        <li><a href="/contact" class="contrast">Contact</a></li>
-    </ul>
+    <nav class="navbar navbar-expand-lg bg-dark" data-bs-theme="dark">
+    <div class="container">
+        <a class="navbar-brand" href="https://josephbales.com/">josephbales.com</a>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarSupportedContent">
+            <ul class="navbar-nav me-auto">
+                <li class="nav-item"><a href="/blog" class="nav-link">Blog</a></li>
+                <li class="nav-item"><a href="/about" class="nav-link">About</a></li>
+                <li class="nav-item"><a href="/contact" class="nav-link">Contact</a></li>
+            </ul>
+        </div>
+    </div>
 </nav>
+
     <main class="container">
         <article>
 
   <header>
-    <h2>Table of Contents</h2>
+    <h2 class="mt-4 mb-4">Table of Contents</h2>
   </header>
 
-  <ul>
+  <div class="card border-dark mb-3">
+    <div class="card-body">
+      <div class="card-text"><ul>
     <li><a href="/blog/2020/10/18/cleaning-up-this-mess.html">Latest Post</a></li>
     <li><a href="/blog">Blog</a></li>
     <li><a href="/about">About</a></li>
@@ -43,13 +52,15 @@
     <li><a href="/feed.xml">RSS</a></li>
 </ul>
 
-
+</div>
+    </div>
+  </div>
 
 </article>
 
     </main>
     <footer class="container">
-    &copy; Joseph Bales 2013 - 2022<br>
+    &copy; Joseph Bales 2013 - 2023<br>
 </footer>
 
 

@@ -9,8 +9,9 @@
   <title>Cleaning Up This Mess</title>
   <meta name="description" content="joseph bales, bales, joseph, developer">
 
-  <link rel="stylesheet" href="https://unpkg.com/@picocss/pico@latest/css/pico.min.css">
-  <link rel="stylesheet" href="https://josephbales.com/css/main.css">
+  <link rel="stylesheet" href="https://josephbales.com/css/solar.min.css">
+  <script src="https://josephbales.com/js/bootstrap.bundle.min.js"></script>
+  <!-- <link rel="stylesheet" href="https://josephbales.com/css/main.css"> -->
 
   <link type="application/atom+xml" rel="alternate" href="https://josephbales.com/feed.xml" title="josephbales.com" />
 </head>
@@ -18,24 +19,30 @@
 
   <body>
 
-    <nav class="container-fluid main-nav-menu">
-    <ul>
-        <li><a href="https://josephbales.com/" class="contrast" ><strong>josephbales.com</strong></a></li>
-    </ul>
-    <ul>
-        <li><a href="/blog" class="contrast">Blog</a></li>
-        <li><a href="/about" class="contrast">About</a></li>
-        <li><a href="/contact" class="contrast">Contact</a></li>
-    </ul>
+    <nav class="navbar navbar-expand-lg bg-dark" data-bs-theme="dark">
+    <div class="container">
+        <a class="navbar-brand" href="https://josephbales.com/">josephbales.com</a>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarSupportedContent">
+            <ul class="navbar-nav me-auto">
+                <li class="nav-item"><a href="/blog" class="nav-link">Blog</a></li>
+                <li class="nav-item"><a href="/about" class="nav-link">About</a></li>
+                <li class="nav-item"><a href="/contact" class="nav-link">Contact</a></li>
+            </ul>
+        </div>
+    </div>
 </nav>
+
     <main class="container">
         <article>
-
-    <header>
-        <h2>Cleaning Up This Mess</h2>
-    </header>
-
-    <h3 id="part-one">Part One</h3>
+  <header>
+    <h2 class="mt-4 mb-4">Cleaning Up This Mess</h2>
+  </header>
+  <div class="card border-dark mb-3">
+    <div class="card-body">
+      <div class="card-text"><h3 id="part-one">Part One</h3>
 
 <p>Oh wow, nearly another whole year has passed since my last blog post. If you are an infrequent visitor you may have noticed that I’ve simplified the design of the site quite a bit. For several years this blog has been sporting a <a href="https://getbootstrap.com/">Bootstrap</a> based theme. While bootstrap themes make things easier (especially when using something like <a href="https://bootswatch.com/">Bootswatch</a> hosted from a <a href="https://en.wikipedia.org/wiki/Content_delivery_network">CDN</a>), it also adds a lot of overhead for what amounts to eye candy.  While eye candy has its place, that place isn’t on the personal web site of a developer. I’m taking my inspiration from such famous developers as <a href="http://stallman.org/">Richard Stallman</a> and <a href="https://www-cs-faculty.stanford.edu/~knuth/">Donald Knuth</a>.</p>
 
@@ -50,21 +57,22 @@
 <p>The other thing I’m working on cleaning up is the United States. The year is 2020 and we have a <a href="https://en.wikipedia.org/wiki/Donald_Trump">racist, bigoted, ignorant, misogynistic, authoritarian, man-child</a> running the country. He’s dangerously close to getting a second term in office. We are two weeks out from election day and I’m still holding my breath, waiting for an “October Surprise” to drop on his main opponent, <a href="https://en.wikipedia.org/wiki/Joe_Biden">Joe Biden</a>. While Biden was not my first, second, third, or fourth choice to be President, he’s the candidate we have that has the highest chance of beating Donald Trump, so he is who I will vote for. While many polls show Biden in the lead at this point, it’s a very slim margin and some of the polling organizations like Rassmusen and Trafalgar that predicted Trump’s 2016 win are showing Trump leading in several critical states. It’s a toss up at this point.</p>
 
 <p>Even if we successfully remove Trump from office, it’s still not going to clean things up. We will have to hold whoever the next President is to a higher standard and work hard to get them to start making government work for the largest portion of people that it governs.</p>
-
-
-    <footer>
+</div>
+      <footer>
         <p>
-            Posted on <b><time datetime="2020-10-18T00:00:00+00:00">2020-10-18</time></b><br>
-            Authored by <b>Joseph Bales</b>
+          Posted on <b><time datetime="2020-10-18T00:00:00+00:00">2020-10-18</time></b><br>
+          Authored by <b>Joseph Bales</b>
         </p>
         <p> 
-            <a href="/blog/">Back to Blog</a>
+          <a href="/blog/">Back to Blog</a>
         </p>
-    </footer>
+      </footer>
+    </div>
+  </div>
 </article>
     </main>
     <footer class="container">
-    &copy; Joseph Bales 2013 - 2022<br>
+    &copy; Joseph Bales 2013 - 2023<br>
 </footer>
 
 

@@ -5,9 +5,9 @@
     <description></description>
     <link>https://josephbales.com/</link>
     <atom:link href="https://josephbales.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 15 Jan 2022 18:36:27 +0000</pubDate>
-    <lastBuildDate>Sat, 15 Jan 2022 18:36:27 +0000</lastBuildDate>
-    <generator>Jekyll v4.2.1</generator>
+    <pubDate>Mon, 03 Jul 2023 02:35:58 +0000</pubDate>
+    <lastBuildDate>Mon, 03 Jul 2023 02:35:58 +0000</lastBuildDate>
+    <generator>Jekyll v4.3.2</generator>
     
       <item>
         <title>Cleaning Up This Mess</title>
@@ -211,7 +211,7 @@ DocumentRoot /usr/local/www/apache24/data/example2.com
       </item>
     
       <item>
-        <title>Why I'm no longer a Google fanboy</title>
+        <title>Why I&apos;m no longer a Google fanboy</title>
         <description>&lt;p&gt;I used to be a Google fanboy (my wife is still a Google fangirl). I used to sing their praises and recommend their software and services to anyone who asked for the slightest computer advice. But lately I’ve been rethinking my stance on Google and have started moving in other directions.&lt;/p&gt;
 
 &lt;p&gt;So what did Google do that has put me off? They started sucking at what they used to do best. We’ve known all along that Google’s products are NOT it’s services, but it’s users. Their massive user base and associated user data is where they make the big bucks. They amassed this data by tricking us users into giving it to them and the profit margins are astonishing because we give them all of that information without being compensated one red cent. It is not this fact that put me off. Quite the contrary, it is one hell of a business model. The thing that has put me off is that they aren’t able to trick me into giving them my information for free anymore.&lt;/p&gt;

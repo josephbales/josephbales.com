@@ -9,8 +9,9 @@
   <title>Setting up Apache Virtual Hosts on FreeBSD 10.1</title>
   <meta name="description" content="joseph bales, bales, joseph, developer">
 
-  <link rel="stylesheet" href="https://unpkg.com/@picocss/pico@latest/css/pico.min.css">
-  <link rel="stylesheet" href="https://josephbales.com/css/main.css">
+  <link rel="stylesheet" href="https://josephbales.com/css/solar.min.css">
+  <script src="https://josephbales.com/js/bootstrap.bundle.min.js"></script>
+  <!-- <link rel="stylesheet" href="https://josephbales.com/css/main.css"> -->
 
   <link type="application/atom+xml" rel="alternate" href="https://josephbales.com/feed.xml" title="josephbales.com" />
 </head>
@@ -18,24 +19,30 @@
 
   <body>
 
-    <nav class="container-fluid main-nav-menu">
-    <ul>
-        <li><a href="https://josephbales.com/" class="contrast" ><strong>josephbales.com</strong></a></li>
-    </ul>
-    <ul>
-        <li><a href="/blog" class="contrast">Blog</a></li>
-        <li><a href="/about" class="contrast">About</a></li>
-        <li><a href="/contact" class="contrast">Contact</a></li>
-    </ul>
+    <nav class="navbar navbar-expand-lg bg-dark" data-bs-theme="dark">
+    <div class="container">
+        <a class="navbar-brand" href="https://josephbales.com/">josephbales.com</a>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarSupportedContent">
+            <ul class="navbar-nav me-auto">
+                <li class="nav-item"><a href="/blog" class="nav-link">Blog</a></li>
+                <li class="nav-item"><a href="/about" class="nav-link">About</a></li>
+                <li class="nav-item"><a href="/contact" class="nav-link">Contact</a></li>
+            </ul>
+        </div>
+    </div>
 </nav>
+
     <main class="container">
         <article>
-
-    <header>
-        <h2>Setting up Apache Virtual Hosts on FreeBSD 10.1</h2>
-    </header>
-
-    <p>I’ve been messing around on <a title="The DigitalOcean website" href="http://digitalocean.com" target="_blank">DigitalOcean</a> with a <a title="FreeBSD website" href="http://freebsd.org" target="_blank">FreeBSD</a> 10.1 droplet. First let me say that FreeBSD is awesome. The thing that I like the most about the BSDs is that they don’t beat about the bush when it comes to making an OS because the purpose of each BSD <em>is</em> the OS. My main comparison is to Linux based OSes, which are awesome in their own way, but feel a bit splintered. With the BSDs it’s not just a kernel with a bunch of GNU apps thrown at it to make it usable, they take great pains to produce a complete OS. So when I need to know how to do something on FreeBSD, there’s probably already a darn good document out there with detailed instructions. Hell, you rarely have to go outside the FreeBSD manual unless you’re doing something really complex. It just works and that’s great!</p>
+  <header>
+    <h2 class="mt-4 mb-4">Setting up Apache Virtual Hosts on FreeBSD 10.1</h2>
+  </header>
+  <div class="card border-dark mb-3">
+    <div class="card-body">
+      <div class="card-text"><p>I’ve been messing around on <a title="The DigitalOcean website" href="http://digitalocean.com" target="_blank">DigitalOcean</a> with a <a title="FreeBSD website" href="http://freebsd.org" target="_blank">FreeBSD</a> 10.1 droplet. First let me say that FreeBSD is awesome. The thing that I like the most about the BSDs is that they don’t beat about the bush when it comes to making an OS because the purpose of each BSD <em>is</em> the OS. My main comparison is to Linux based OSes, which are awesome in their own way, but feel a bit splintered. With the BSDs it’s not just a kernel with a bunch of GNU apps thrown at it to make it usable, they take great pains to produce a complete OS. So when I need to know how to do something on FreeBSD, there’s probably already a darn good document out there with detailed instructions. Hell, you rarely have to go outside the FreeBSD manual unless you’re doing something really complex. It just works and that’s great!</p>
 
 <p>Now on to why I’m writing this post. I was wanting to set up Apache on my FreeBSD 10.1 machine to serve up 3 different websites. In the Apache world this is called Virtual Hosts. So let us say that we have 3 different addresses, but only one IP, now what? Virtual Hosts, and specifically Named Virtual Hosts. Configuration is dead simple.</p>
 
@@ -69,21 +76,22 @@ DocumentRoot /usr/local/www/apache24/data/example2.com
 </code></pre></div></div>
 
 <p>And it’s that simple! For more detailed documentation on Virtual Hosts you should read the official <a title="Apache Virtual Hosts documentation link" href="http://httpd.apache.org/docs/2.4/vhosts/" target="_blank">Apache documentation</a>. Have fun with it!</p>
-
-
-    <footer>
+</div>
+      <footer>
         <p>
-            Posted on <b><time datetime="2015-04-03T00:00:00+00:00">2015-04-03</time></b><br>
-            Authored by <b>Joseph Bales</b>
+          Posted on <b><time datetime="2015-04-03T00:00:00+00:00">2015-04-03</time></b><br>
+          Authored by <b>Joseph Bales</b>
         </p>
         <p> 
-            <a href="/blog/">Back to Blog</a>
+          <a href="/blog/">Back to Blog</a>
         </p>
-    </footer>
+      </footer>
+    </div>
+  </div>
 </article>
     </main>
     <footer class="container">
-    &copy; Joseph Bales 2013 - 2022<br>
+    &copy; Joseph Bales 2013 - 2023<br>
 </footer>
 
 

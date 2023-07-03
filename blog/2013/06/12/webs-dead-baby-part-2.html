@@ -9,8 +9,9 @@
   <title>Web’s Dead, Baby: Part 2</title>
   <meta name="description" content="joseph bales, bales, joseph, developer">
 
-  <link rel="stylesheet" href="https://unpkg.com/@picocss/pico@latest/css/pico.min.css">
-  <link rel="stylesheet" href="https://josephbales.com/css/main.css">
+  <link rel="stylesheet" href="https://josephbales.com/css/solar.min.css">
+  <script src="https://josephbales.com/js/bootstrap.bundle.min.js"></script>
+  <!-- <link rel="stylesheet" href="https://josephbales.com/css/main.css"> -->
 
   <link type="application/atom+xml" rel="alternate" href="https://josephbales.com/feed.xml" title="josephbales.com" />
 </head>
@@ -18,24 +19,30 @@
 
   <body>
 
-    <nav class="container-fluid main-nav-menu">
-    <ul>
-        <li><a href="https://josephbales.com/" class="contrast" ><strong>josephbales.com</strong></a></li>
-    </ul>
-    <ul>
-        <li><a href="/blog" class="contrast">Blog</a></li>
-        <li><a href="/about" class="contrast">About</a></li>
-        <li><a href="/contact" class="contrast">Contact</a></li>
-    </ul>
+    <nav class="navbar navbar-expand-lg bg-dark" data-bs-theme="dark">
+    <div class="container">
+        <a class="navbar-brand" href="https://josephbales.com/">josephbales.com</a>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarSupportedContent">
+            <ul class="navbar-nav me-auto">
+                <li class="nav-item"><a href="/blog" class="nav-link">Blog</a></li>
+                <li class="nav-item"><a href="/about" class="nav-link">About</a></li>
+                <li class="nav-item"><a href="/contact" class="nav-link">Contact</a></li>
+            </ul>
+        </div>
+    </div>
 </nav>
+
     <main class="container">
         <article>
-
-    <header>
-        <h2>Web’s Dead, Baby: Part 2</h2>
-    </header>
-
-    <p>Well, now that I’ve made you wait a couple of weeks to tell you why the Web is dead, I guess it’s time to disappoint (nothing can live up to that amount of hype). As my one piece of evidence I present <a href="http://sachachua.com/blog/2013/05/how-to-learn-emacs-a-hand-drawn-one-pager-for-beginners/" target="_blank">this link</a>. Go ahead, look at it. I’ll wait.</p>
+  <header>
+    <h2 class="mt-4 mb-4">Web’s Dead, Baby: Part 2</h2>
+  </header>
+  <div class="card border-dark mb-3">
+    <div class="card-body">
+      <div class="card-text"><p>Well, now that I’ve made you wait a couple of weeks to tell you why the Web is dead, I guess it’s time to disappoint (nothing can live up to that amount of hype). As my one piece of evidence I present <a href="http://sachachua.com/blog/2013/05/how-to-learn-emacs-a-hand-drawn-one-pager-for-beginners/" target="_blank">this link</a>. Go ahead, look at it. I’ll wait.</p>
 
 <p>…</p>
 
@@ -56,21 +63,22 @@
 <p>Apps are putting up walls where the web had previously broke them down. Before the web, AOL, Prodigy, CompuServe, etc. all served up their own private content, and if you didn’t subscribe, you didn’t even have access to it. Apps are doing the same thing. To view and create content through certain services, you have to have their app. And some apps are iPhone only, or Android only, or only available on certain phone carriers. This isn’t progression, it’s regression. We are literally traveling back in time to the land of AOL and the private BBS.</p>
 
 <p>Sure, the web is still around, and it will be for years and years to come, but it’s dead. Like magma that has cooled and solidified, the web sits and awaits its fate. And the freedom and the openness of the web? They’re slipping away too. The time when all you needed was a browser window to look into the vastness of all human intellect is fading into history. So when your grandkids ask you what the web was, you’ll just tell them, “<a href="http://youtu.be/y7Yp2L6c2KM" target="_blank">The Web’s dead, baby. The Web’s dead.</a>”</p>
-
-
-    <footer>
+</div>
+      <footer>
         <p>
-            Posted on <b><time datetime="2013-06-12T00:00:00+00:00">2013-06-12</time></b><br>
-            Authored by <b>Joseph Bales</b>
+          Posted on <b><time datetime="2013-06-12T00:00:00+00:00">2013-06-12</time></b><br>
+          Authored by <b>Joseph Bales</b>
         </p>
         <p> 
-            <a href="/blog/">Back to Blog</a>
+          <a href="/blog/">Back to Blog</a>
         </p>
-    </footer>
+      </footer>
+    </div>
+  </div>
 </article>
     </main>
     <footer class="container">
-    &copy; Joseph Bales 2013 - 2022<br>
+    &copy; Joseph Bales 2013 - 2023<br>
 </footer>
 
 

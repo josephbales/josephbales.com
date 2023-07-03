@@ -9,8 +9,9 @@
   <title>MVCGrid.Net</title>
   <meta name="description" content="joseph bales, bales, joseph, developer">
 
-  <link rel="stylesheet" href="https://unpkg.com/@picocss/pico@latest/css/pico.min.css">
-  <link rel="stylesheet" href="https://josephbales.com/css/main.css">
+  <link rel="stylesheet" href="https://josephbales.com/css/solar.min.css">
+  <script src="https://josephbales.com/js/bootstrap.bundle.min.js"></script>
+  <!-- <link rel="stylesheet" href="https://josephbales.com/css/main.css"> -->
 
   <link type="application/atom+xml" rel="alternate" href="https://josephbales.com/feed.xml" title="josephbales.com" />
 </head>
@@ -18,24 +19,30 @@
 
   <body>
 
-    <nav class="container-fluid main-nav-menu">
-    <ul>
-        <li><a href="https://josephbales.com/" class="contrast" ><strong>josephbales.com</strong></a></li>
-    </ul>
-    <ul>
-        <li><a href="/blog" class="contrast">Blog</a></li>
-        <li><a href="/about" class="contrast">About</a></li>
-        <li><a href="/contact" class="contrast">Contact</a></li>
-    </ul>
+    <nav class="navbar navbar-expand-lg bg-dark" data-bs-theme="dark">
+    <div class="container">
+        <a class="navbar-brand" href="https://josephbales.com/">josephbales.com</a>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarSupportedContent">
+            <ul class="navbar-nav me-auto">
+                <li class="nav-item"><a href="/blog" class="nav-link">Blog</a></li>
+                <li class="nav-item"><a href="/about" class="nav-link">About</a></li>
+                <li class="nav-item"><a href="/contact" class="nav-link">Contact</a></li>
+            </ul>
+        </div>
+    </div>
 </nav>
+
     <main class="container">
         <article>
-
-    <header>
-        <h2>MVCGrid.Net</h2>
-    </header>
-
-    <p>I didn’t want an entire year to go by without writing a post, so I thought that I would talk a little bit about a neat little tool I found for displaying grid data in ASP.NET MVC 5 projects. It’s called <a href="http://mvcgrid.net/" title="MVCGrid.Net">MVCGrid.Net</a>. I say “neat little tool,” but it’s actually quite powerful now that I know more about how to use it.</p>
+  <header>
+    <h2 class="mt-4 mb-4">MVCGrid.Net</h2>
+  </header>
+  <div class="card border-dark mb-3">
+    <div class="card-body">
+      <div class="card-text"><p>I didn’t want an entire year to go by without writing a post, so I thought that I would talk a little bit about a neat little tool I found for displaying grid data in ASP.NET MVC 5 projects. It’s called <a href="http://mvcgrid.net/" title="MVCGrid.Net">MVCGrid.Net</a>. I say “neat little tool,” but it’s actually quite powerful now that I know more about how to use it.</p>
 
 <p>For styling it uses <a href="http://getbootstrap.com/" title="Bootstrap">Bootstrap</a> so that makes it easy for me since I already use Bootstrap for basic styling. It also includes a DLL where most of the magic happens and the configuration happens in a <code class="language-plaintext highlighter-rouge">MVCGridConfig.cs</code> file that you include in your <code class="language-plaintext highlighter-rouge">App_Start</code> folder.</p>
 
@@ -44,21 +51,22 @@
 <p>One page that might get overlooked in the documentation is the Custom Razor View page. It doesn’t have a direct link on the documentation table of contents. It’s actually buried in one of the other pages, but here’s the <a href="http://mvcgrid.net/demo/customrazorview" title="Link to Custom Razor Views">link</a>.</p>
 
 <p>The best thing is that it is free, open source (using the MIT license), and fairly well documented. Check it out if you are in need of something to help you get sortable grids up and running quickly in ASP.NET MVC 5.</p>
-
-
-    <footer>
+</div>
+      <footer>
         <p>
-            Posted on <b><time datetime="2016-12-12T00:00:00+00:00">2016-12-12</time></b><br>
-            Authored by <b>Joseph Bales</b>
+          Posted on <b><time datetime="2016-12-12T00:00:00+00:00">2016-12-12</time></b><br>
+          Authored by <b>Joseph Bales</b>
         </p>
         <p> 
-            <a href="/blog/">Back to Blog</a>
+          <a href="/blog/">Back to Blog</a>
         </p>
-    </footer>
+      </footer>
+    </div>
+  </div>
 </article>
     </main>
     <footer class="container">
-    &copy; Joseph Bales 2013 - 2022<br>
+    &copy; Joseph Bales 2013 - 2023<br>
 </footer>
 
 

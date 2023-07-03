@@ -9,8 +9,9 @@
   <title>The purpose of Twitter Bootstrap</title>
   <meta name="description" content="joseph bales, bales, joseph, developer">
 
-  <link rel="stylesheet" href="https://unpkg.com/@picocss/pico@latest/css/pico.min.css">
-  <link rel="stylesheet" href="https://josephbales.com/css/main.css">
+  <link rel="stylesheet" href="https://josephbales.com/css/solar.min.css">
+  <script src="https://josephbales.com/js/bootstrap.bundle.min.js"></script>
+  <!-- <link rel="stylesheet" href="https://josephbales.com/css/main.css"> -->
 
   <link type="application/atom+xml" rel="alternate" href="https://josephbales.com/feed.xml" title="josephbales.com" />
 </head>
@@ -18,24 +19,30 @@
 
   <body>
 
-    <nav class="container-fluid main-nav-menu">
-    <ul>
-        <li><a href="https://josephbales.com/" class="contrast" ><strong>josephbales.com</strong></a></li>
-    </ul>
-    <ul>
-        <li><a href="/blog" class="contrast">Blog</a></li>
-        <li><a href="/about" class="contrast">About</a></li>
-        <li><a href="/contact" class="contrast">Contact</a></li>
-    </ul>
+    <nav class="navbar navbar-expand-lg bg-dark" data-bs-theme="dark">
+    <div class="container">
+        <a class="navbar-brand" href="https://josephbales.com/">josephbales.com</a>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarSupportedContent">
+            <ul class="navbar-nav me-auto">
+                <li class="nav-item"><a href="/blog" class="nav-link">Blog</a></li>
+                <li class="nav-item"><a href="/about" class="nav-link">About</a></li>
+                <li class="nav-item"><a href="/contact" class="nav-link">Contact</a></li>
+            </ul>
+        </div>
+    </div>
 </nav>
+
     <main class="container">
         <article>
-
-    <header>
-        <h2>The purpose of Twitter Bootstrap</h2>
-    </header>
-
-    <p>Okay, so I rarely make websites or blog anymore. I’ll admit that I’ve fallen a bit out of touch with regard to the latest and greatest web technologies. But I’ve surprised even myself in the amount of time it has taken for me to understand <a title="Twitter Bootstrap" href="http://getbootstrap.com" target="_blank">Bootstrap</a>.</p>
+  <header>
+    <h2 class="mt-4 mb-4">The purpose of Twitter Bootstrap</h2>
+  </header>
+  <div class="card border-dark mb-3">
+    <div class="card-body">
+      <div class="card-text"><p>Okay, so I rarely make websites or blog anymore. I’ll admit that I’ve fallen a bit out of touch with regard to the latest and greatest web technologies. But I’ve surprised even myself in the amount of time it has taken for me to understand <a title="Twitter Bootstrap" href="http://getbootstrap.com" target="_blank">Bootstrap</a>.</p>
 
 <p>In case you didn’t know, Bootstrap is a web framework. No, I wouldn’t go that far. It’s more like a web layout framework. Bootstrap helps take your dowdy, old site and make it look like something a professional web designer might throw together in an afternoon (this is a compliment to web designers from someone who couldn’t design their way out of a wet paper bag).</p>
 
@@ -44,21 +51,22 @@
 <p>The power comes not from what Bootstrap does, it comes from what I don’t have to do (and this is the part that took me so long to figure out). I don’t have to write style sheets anymore. That’s it.  But whoa, THAT’S IT! I used to spend HOURS (days even) tweaking this and nudging that, opening the <a title="The Gimp!" href="http://www.gimp.org/" target="_blank">Gimp</a> and doing a little on the fly editing, reading <a title="Pretentious" href="http://alistapart.com/" target="_blank">A List Apart</a> and <a title="Nerd cred quantified." href="http://stackoverflow.com/" target="_blank">Stack Overflow</a>.</p>
 
 <p>Now when I build a site I vow to do as little of that crap as possible. Now I’m going to use Bootstrap for what it was intended: to leave the style to designers and let the blogger/developer blog and develop.</p>
-
-
-    <footer>
+</div>
+      <footer>
         <p>
-            Posted on <b><time datetime="2014-12-08T00:00:00+00:00">2014-12-08</time></b><br>
-            Authored by <b>Joseph Bales</b>
+          Posted on <b><time datetime="2014-12-08T00:00:00+00:00">2014-12-08</time></b><br>
+          Authored by <b>Joseph Bales</b>
         </p>
         <p> 
-            <a href="/blog/">Back to Blog</a>
+          <a href="/blog/">Back to Blog</a>
         </p>
-    </footer>
+      </footer>
+    </div>
+  </div>
 </article>
     </main>
     <footer class="container">
-    &copy; Joseph Bales 2013 - 2022<br>
+    &copy; Joseph Bales 2013 - 2023<br>
 </footer>
 
 

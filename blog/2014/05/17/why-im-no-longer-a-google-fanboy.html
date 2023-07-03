@@ -9,8 +9,9 @@
   <title>Why I&#39;m no longer a Google fanboy</title>
   <meta name="description" content="joseph bales, bales, joseph, developer">
 
-  <link rel="stylesheet" href="https://unpkg.com/@picocss/pico@latest/css/pico.min.css">
-  <link rel="stylesheet" href="https://josephbales.com/css/main.css">
+  <link rel="stylesheet" href="https://josephbales.com/css/solar.min.css">
+  <script src="https://josephbales.com/js/bootstrap.bundle.min.js"></script>
+  <!-- <link rel="stylesheet" href="https://josephbales.com/css/main.css"> -->
 
   <link type="application/atom+xml" rel="alternate" href="https://josephbales.com/feed.xml" title="josephbales.com" />
 </head>
@@ -18,24 +19,30 @@
 
   <body>
 
-    <nav class="container-fluid main-nav-menu">
-    <ul>
-        <li><a href="https://josephbales.com/" class="contrast" ><strong>josephbales.com</strong></a></li>
-    </ul>
-    <ul>
-        <li><a href="/blog" class="contrast">Blog</a></li>
-        <li><a href="/about" class="contrast">About</a></li>
-        <li><a href="/contact" class="contrast">Contact</a></li>
-    </ul>
+    <nav class="navbar navbar-expand-lg bg-dark" data-bs-theme="dark">
+    <div class="container">
+        <a class="navbar-brand" href="https://josephbales.com/">josephbales.com</a>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarSupportedContent">
+            <ul class="navbar-nav me-auto">
+                <li class="nav-item"><a href="/blog" class="nav-link">Blog</a></li>
+                <li class="nav-item"><a href="/about" class="nav-link">About</a></li>
+                <li class="nav-item"><a href="/contact" class="nav-link">Contact</a></li>
+            </ul>
+        </div>
+    </div>
 </nav>
+
     <main class="container">
         <article>
-
-    <header>
-        <h2>Why I'm no longer a Google fanboy</h2>
-    </header>
-
-    <p>I used to be a Google fanboy (my wife is still a Google fangirl). I used to sing their praises and recommend their software and services to anyone who asked for the slightest computer advice. But lately I’ve been rethinking my stance on Google and have started moving in other directions.</p>
+  <header>
+    <h2 class="mt-4 mb-4">Why I'm no longer a Google fanboy</h2>
+  </header>
+  <div class="card border-dark mb-3">
+    <div class="card-body">
+      <div class="card-text"><p>I used to be a Google fanboy (my wife is still a Google fangirl). I used to sing their praises and recommend their software and services to anyone who asked for the slightest computer advice. But lately I’ve been rethinking my stance on Google and have started moving in other directions.</p>
 
 <p>So what did Google do that has put me off? They started sucking at what they used to do best. We’ve known all along that Google’s products are NOT it’s services, but it’s users. Their massive user base and associated user data is where they make the big bucks. They amassed this data by tricking us users into giving it to them and the profit margins are astonishing because we give them all of that information without being compensated one red cent. It is not this fact that put me off. Quite the contrary, it is one hell of a business model. The thing that has put me off is that they aren’t able to trick me into giving them my information for free anymore.</p>
 
@@ -48,21 +55,22 @@
 <p>So I’ve decided to try to become much less reliant on Google services. I’ve already given up on Chrome and replaced it with Firefox. At some point I would like to replace my Android phone with a Windows phone, but that’s probably a few years down the road (if Windows phone is still there). I now use Bing for most of my searching. The main services I use beyond that are Google Play for my music collection, Google Docs, Google Calendar, and Gmail. I’m not sure where I could put my music collection that is accessible as it is on Google Play, but there are multiple alternatives to Docs, Calendar, and Gmail and I am already exploring those. If you have any suggestions on replacements, feel free to contact me.</p>
 
 <p>I don’t want this blog to become Google bashing central and my intent is not to bash Google. As a company Google is no better or worse than any other large corporation. I’m simply stating what my issues with Google are and why I am personally trying to move in another direction. The simple fact is they just aren’t capturing my enthusiasm anymore.</p>
-
-
-    <footer>
+</div>
+      <footer>
         <p>
-            Posted on <b><time datetime="2014-05-17T00:00:00+00:00">2014-05-17</time></b><br>
-            Authored by <b>Joseph Bales</b>
+          Posted on <b><time datetime="2014-05-17T00:00:00+00:00">2014-05-17</time></b><br>
+          Authored by <b>Joseph Bales</b>
         </p>
         <p> 
-            <a href="/blog/">Back to Blog</a>
+          <a href="/blog/">Back to Blog</a>
         </p>
-    </footer>
+      </footer>
+    </div>
+  </div>
 </article>
     </main>
     <footer class="container">
-    &copy; Joseph Bales 2013 - 2022<br>
+    &copy; Joseph Bales 2013 - 2023<br>
 </footer>
 
 

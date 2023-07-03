@@ -9,8 +9,9 @@
   <title>Blog</title>
   <meta name="description" content="joseph bales, bales, joseph, developer">
 
-  <link rel="stylesheet" href="https://unpkg.com/@picocss/pico@latest/css/pico.min.css">
-  <link rel="stylesheet" href="https://josephbales.com/css/main.css">
+  <link rel="stylesheet" href="https://josephbales.com/css/solar.min.css">
+  <script src="https://josephbales.com/js/bootstrap.bundle.min.js"></script>
+  <!-- <link rel="stylesheet" href="https://josephbales.com/css/main.css"> -->
 
   <link type="application/atom+xml" rel="alternate" href="https://josephbales.com/feed.xml" title="josephbales.com" />
 </head>
@@ -18,95 +19,121 @@
 
   <body>
 
-    <nav class="container-fluid main-nav-menu">
-    <ul>
-        <li><a href="https://josephbales.com/" class="contrast" ><strong>josephbales.com</strong></a></li>
-    </ul>
-    <ul>
-        <li><a href="/blog" class="contrast">Blog</a></li>
-        <li><a href="/about" class="contrast">About</a></li>
-        <li><a href="/contact" class="contrast">Contact</a></li>
-    </ul>
+    <nav class="navbar navbar-expand-lg bg-dark" data-bs-theme="dark">
+    <div class="container">
+        <a class="navbar-brand" href="https://josephbales.com/">josephbales.com</a>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarSupportedContent">
+            <ul class="navbar-nav me-auto">
+                <li class="nav-item"><a href="/blog" class="nav-link">Blog</a></li>
+                <li class="nav-item"><a href="/about" class="nav-link">About</a></li>
+                <li class="nav-item"><a href="/contact" class="nav-link">Contact</a></li>
+            </ul>
+        </div>
+    </div>
 </nav>
+
     <main class="container">
         <article>
 
   <header>
-    <h2>Blog</h2>
+    <h2 class="mt-4 mb-4">Blog</h2>
   </header>
 
-  
-    <details>
-        <summary><a href="/blog/2020/10/18/cleaning-up-this-mess.html">Cleaning Up This Mess</a></summary>
-        <p><span class="blog-list-date">2020 Oct 18</span> - Part One Oh wow, nearly another whole year has passed since my last blog post. If you are an infrequent visitor you may have noticed that I’ve simplified the design of the site quite a bit. For several years this blog has been sporting a Bootstrap based theme. While bootstrap...</p>
-    </details>
+  <div class="card border-dark mb-3">
+    <div class="card-body">
+      <div class="card-text">
+<div class="card border-primary mb-3" onclick="window.location = '/blog/2020/10/18/cleaning-up-this-mess.html'">
+  <div class="card-header">2020 Oct 18</div>
+  <div class="card-body">
+    <h4 class="card-title">Cleaning Up This Mess</h4>
+    <p class="card-text">Part One Oh wow, nearly another whole year has passed since my last blog post. If you are an infrequent visitor you may have noticed that I’ve simplified the design of the site quite a bit. For several years this blog has been sporting a Bootstrap based theme. While bootstrap... <a href="/blog/2020/10/18/cleaning-up-this-mess.html"> Read more</a></p>
+  </div>
+</div>
 
-    <details>
-        <summary><a href="/blog/2019/12/05/Two-Years-of-Updates.html">Two+ Years of Updates</a></summary>
-        <p><span class="blog-list-date">2019 Dec 05</span> - Wow, time really flies when you’re having fun. It’s been over two years since my last update, so let’s see how some of the things I’ve talked about in the past have evolved.. er.. intelligently designed? Regarding career politicians in Tennessee, two out of three career politicians in Tennessee are...</p>
-    </details>
+<div class="card border-primary mb-3" onclick="window.location = '/blog/2019/12/05/Two-Years-of-Updates.html'">
+  <div class="card-header">2019 Dec 05</div>
+  <div class="card-body">
+    <h4 class="card-title">Two+ Years of Updates</h4>
+    <p class="card-text">Wow, time really flies when you’re having fun. It’s been over two years since my last update, so let’s see how some of the things I’ve talked about in the past have evolved.. er.. intelligently designed? Regarding career politicians in Tennessee, two out of three career politicians in Tennessee are... <a href="/blog/2019/12/05/Two-Years-of-Updates.html"> Read more</a></p>
+  </div>
+</div>
 
-    <details>
-        <summary><a href="/blog/2017/01/13/NET-Core-1.0-Not-Ready-for-Primetime.html">.NET Core 1.0 Not Ready for Primetime</a></summary>
-        <p><span class="blog-list-date">2017 Jan 13</span> - &lt;rant&gt; Well, I just spent two hours of my life getting a project running that was already working on another PC. I’m so fed up right now that I don’t really want to work on the actual project. It is an ASP.NET Core 1.0 project that I’ve been working on...</p>
-    </details>
+<div class="card border-primary mb-3" onclick="window.location = '/blog/2017/01/13/NET-Core-1.0-Not-Ready-for-Primetime.html'">
+  <div class="card-header">2017 Jan 13</div>
+  <div class="card-body">
+    <h4 class="card-title">.NET Core 1.0 Not Ready for Primetime</h4>
+    <p class="card-text">&lt;rant&gt; Well, I just spent two hours of my life getting a project running that was already working on another PC. I’m so fed up right now that I don’t really want to work on the actual project. It is an ASP.NET Core 1.0 project that I’ve been working on... <a href="/blog/2017/01/13/NET-Core-1.0-Not-Ready-for-Primetime.html"> Read more</a></p>
+  </div>
+</div>
 
-    <details>
-        <summary><a href="/blog/2016/12/12/Free-Grid-Sorting-in-ASP.NET-MVC-5.html">MVCGrid.Net</a></summary>
-        <p><span class="blog-list-date">2016 Dec 12</span> - I didn’t want an entire year to go by without writing a post, so I thought that I would talk a little bit about a neat little tool I found for displaying grid data in ASP.NET MVC 5 projects. It’s called MVCGrid.Net. I say “neat little tool,” but it’s actually...</p>
-    </details>
+<div class="card border-primary mb-3" onclick="window.location = '/blog/2016/12/12/Free-Grid-Sorting-in-ASP.NET-MVC-5.html'">
+  <div class="card-header">2016 Dec 12</div>
+  <div class="card-body">
+    <h4 class="card-title">MVCGrid.Net</h4>
+    <p class="card-text">I didn’t want an entire year to go by without writing a post, so I thought that I would talk a little bit about a neat little tool I found for displaying grid data in ASP.NET MVC 5 projects. It’s called MVCGrid.Net. I say “neat little tool,” but it’s actually... <a href="/blog/2016/12/12/Free-Grid-Sorting-in-ASP.NET-MVC-5.html"> Read more</a></p>
+  </div>
+</div>
 
-    <details>
-        <summary><a href="/blog/2015/09/15/error-converting-data-type-dbtype_dbtimestamp-to-datetime2.html">Error converting data type DBTYPE_DBTIMESTAMP to datetime2</a></summary>
-        <p><span class="blog-list-date">2015 Sep 15</span> - Okay, so here is a post that has been months in the making. Lately I’ve been working on an ETL project, mostly the E and T parts. The project involves exporting data from a database via an ODBC driver (AcuODBC to be exact). I don’t have any control over the database being accessed other...</p>
-    </details>
+<div class="card border-primary mb-3" onclick="window.location = '/blog/2015/09/15/error-converting-data-type-dbtype_dbtimestamp-to-datetime2.html'">
+  <div class="card-header">2015 Sep 15</div>
+  <div class="card-body">
+    <h4 class="card-title">Error converting data type DBTYPE_DBTIMESTAMP to datetime2</h4>
+    <p class="card-text">Okay, so here is a post that has been months in the making. Lately I’ve been working on an ETL project, mostly the E and T parts. The project involves exporting data from a database via an ODBC driver (AcuODBC to be exact). I don’t have any control over the database being accessed other... <a href="/blog/2015/09/15/error-converting-data-type-dbtype_dbtimestamp-to-datetime2.html"> Read more</a></p>
+  </div>
+</div>
 
-    <details>
-        <summary><a href="/blog/2015/04/03/setting-up-apache-virtual-hosts-on-freebsd-10-1.html">Setting up Apache Virtual Hosts on FreeBSD 10.1</a></summary>
-        <p><span class="blog-list-date">2015 Apr 03</span> - I’ve been messing around on DigitalOcean with a FreeBSD 10.1 droplet. First let me say that FreeBSD is awesome. The thing that I like the most about the BSDs is that they don’t beat about the bush when it comes to making an OS because the purpose of each BSD is the...</p>
-    </details>
 
-    <details>
-        <summary><a href="/blog/2014/12/08/the-purpose-of-twitter-bootstrap.html">The purpose of Twitter Bootstrap</a></summary>
-        <p><span class="blog-list-date">2014 Dec 08</span> - Okay, so I rarely make websites or blog anymore. I’ll admit that I’ve fallen a bit out of touch with regard to the latest and greatest web technologies. But I’ve surprised even myself in the amount of time it has taken for me to understand Bootstrap. In case you didn’t...</p>
-    </details>
-
-    <details>
-        <summary><a href="/blog/2014/05/17/why-im-no-longer-a-google-fanboy.html">Why I'm no longer a Google fanboy</a></summary>
-        <p><span class="blog-list-date">2014 May 17</span> - I used to be a Google fanboy (my wife is still a Google fangirl). I used to sing their praises and recommend their software and services to anyone who asked for the slightest computer advice. But lately I’ve been rethinking my stance on Google and have started moving in other...</p>
-    </details>
-
-    <details>
-        <summary><a href="/blog/2013/11/29/deleting-your-google-apps-for-your-domain-account.html">Deleting Your Google Apps for Your Domain Account</a></summary>
-        <p><span class="blog-list-date">2013 Nov 29</span> - Okay, I spent about an hour trying to figure this out and finally did it. Google does not make deleting information easy because that information is their product. So the documentation about this particular subject is very sparse and ultimately I got what I needed from a obscure post in...</p>
-    </details>
-
-    <details>
-        <summary><a href="/blog/2013/06/12/webs-dead-baby-part-2.html">Web’s Dead, Baby: Part 2</a></summary>
-        <p><span class="blog-list-date">2013 Jun 12</span> - Well, now that I’ve made you wait a couple of weeks to tell you why the Web is dead, I guess it’s time to disappoint (nothing can live up to that amount of hype). As my one piece of evidence I present this link. Go ahead, look at it. I’ll...</p>
-    </details>
-
-    <details>
-        <summary><a href="/blog/2013/05/26/webs-dead-baby-part-1.html">Web’s Dead, Baby: Part 1</a></summary>
-        <p><span class="blog-list-date">2013 May 26</span> - Twenty two years is a good run for most technology these days. In fact it’s a phenomenal run. That’s how long the World Wide Web has been in existence. But I’m here today to tell you that the web as we know it is DEAD! (The irony of making this...</p>
-    </details>
-
-    <details>
-        <summary><a href="/blog/2013/05/10/sc-01-have-you-no-shame.html">SC-01, Have you no shame?</a></summary>
-        <p><span class="blog-list-date">2013 May 10</span> - For those of you living in South Carolina’s first congressional district, I have one question. Have you no shame? Mark Sanford’s re-election to his former post as your U.S. Representative would be laughable if it didn’t show the utter ignorance, hypocracy, and blind loyalty of 54% of the voters of...</p>
-    </details>
-
-    <details>
-        <summary><a href="/blog/2013/04/21/primary-challengers-wanted.html">Primary Challengers Wanted</a></summary>
-        <p><span class="blog-list-date">2013 Apr 21</span> - I’m from Tennessee and if we know one thing, it’s how to create terrible, awful politicians. I’d love to see many of our local politicians voted out. Unfortunately, our populace is fairly uneducated and apathetic when it comes to politics. They are used to going into the voting booth and...</p>
-    </details>
-
+<!-- Pagination links -->
+<div>
+  <ul class="pagination pagination-lg">
+    
+    <li class="page-item disabled">
+    
+      <a class="page-link" href="">&laquo;</a>
+    </li>
+    
+    
+    <li class="page-item active">
+    
+    
+      <a class="page-link">1</a>
+    
+    </li>
+    
+    
+    <li class="page-item">
+    
+    
+      <a class="page-link" href="/blog/2/">2</a>
+    
+    </li>
+    
+    
+    <li class="page-item">
+    
+    
+      <a class="page-link" href="/blog/3/">3</a>
+    
+    </li>
+    
+    
+    <li class="page-item">
+    
+      <a class="page-link" href="/blog/2/">&raquo;</a>
+    </li>
+  </ul>
+</div></div>
+    </div>
+  </div>
 
 </article>
 
     </main>
     <footer class="container">
-    &copy; Joseph Bales 2013 - 2022<br>
+    &copy; Joseph Bales 2013 - 2023<br>
 </footer>
 
 
