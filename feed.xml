@@ -1,17 +1,27 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>josephbales.com</title>
-    <description></description>
-    <link>https://josephbales.com/</link>
-    <atom:link href="https://josephbales.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 04 Jul 2023 20:19:30 +0000</pubDate>
-    <lastBuildDate>Tue, 04 Jul 2023 20:19:30 +0000</lastBuildDate>
-    <generator>Jekyll v4.3.2</generator>
-    
-      <item>
-        <title>Cleaning Up This Mess</title>
-        <description>&lt;h3 id=&quot;part-one&quot;&gt;Part One&lt;/h3&gt;
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet href="/feed.xsl" type="text/xsl"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+ <title>josephbales.com</title>
+ <link href="https://josephbales.com/feed.xml" rel="self"/>
+ <link href="https://josephbales.com/" rel="alternate"/>
+ <subtitle></subtitle>
+ <updated>2023-07-06T00:44:08+00:00</updated>
+ <id>https://josephbales.com/</id>
+ <author>
+   <name></name>
+   <email></email>
+ </author>
+ <rights type="text">Copyright © 2023 . All rights reserved.</rights>
+
+ 
+ <entry>
+   <title>Cleaning Up This Mess</title>
+   <link rel="alternate" href="https://josephbales.com/blog/2020/10/18/cleaning-up-this-mess.html"/>
+   <updated>2020-10-18T00:00:00+00:00</updated>
+   <id>https://josephbales.com/blog/2020/10/18/cleaning-up-this-mess</id>
+   <summary>Part One Oh wow, nearly another whole year has passed since my last blog post. If you are an infrequent visitor you may have noticed that I’ve simplified the design of the site quite a bit. For several years this blog has been sporting a Bootstrap based theme. While bootstrap...</summary>
+   <content type="html">&lt;h3 id=&quot;part-one&quot;&gt;Part One&lt;/h3&gt;
 
 &lt;p&gt;Oh wow, nearly another whole year has passed since my last blog post. If you are an infrequent visitor you may have noticed that I’ve simplified the design of the site quite a bit. For several years this blog has been sporting a &lt;a href=&quot;https://getbootstrap.com/&quot;&gt;Bootstrap&lt;/a&gt; based theme. While bootstrap themes make things easier (especially when using something like &lt;a href=&quot;https://bootswatch.com/&quot;&gt;Bootswatch&lt;/a&gt; hosted from a &lt;a href=&quot;https://en.wikipedia.org/wiki/Content_delivery_network&quot;&gt;CDN&lt;/a&gt;), it also adds a lot of overhead for what amounts to eye candy.  While eye candy has its place, that place isn’t on the personal web site of a developer. I’m taking my inspiration from such famous developers as &lt;a href=&quot;http://stallman.org/&quot;&gt;Richard Stallman&lt;/a&gt; and &lt;a href=&quot;https://www-cs-faculty.stanford.edu/~knuth/&quot;&gt;Donald Knuth&lt;/a&gt;.&lt;/p&gt;
 
@@ -26,17 +36,16 @@
 &lt;p&gt;The other thing I’m working on cleaning up is the United States. The year is 2020 and we have a &lt;a href=&quot;https://en.wikipedia.org/wiki/Donald_Trump&quot;&gt;racist, bigoted, ignorant, misogynistic, authoritarian, man-child&lt;/a&gt; running the country. He’s dangerously close to getting a second term in office. We are two weeks out from election day and I’m still holding my breath, waiting for an “October Surprise” to drop on his main opponent, &lt;a href=&quot;https://en.wikipedia.org/wiki/Joe_Biden&quot;&gt;Joe Biden&lt;/a&gt;. While Biden was not my first, second, third, or fourth choice to be President, he’s the candidate we have that has the highest chance of beating Donald Trump, so he is who I will vote for. While many polls show Biden in the lead at this point, it’s a very slim margin and some of the polling organizations like Rassmusen and Trafalgar that predicted Trump’s 2016 win are showing Trump leading in several critical states. It’s a toss up at this point.&lt;/p&gt;
 
 &lt;p&gt;Even if we successfully remove Trump from office, it’s still not going to clean things up. We will have to hold whoever the next President is to a higher standard and work hard to get them to start making government work for the largest portion of people that it governs.&lt;/p&gt;
-</description>
-        <pubDate>Sun, 18 Oct 2020 00:00:00 +0000</pubDate>
-        <link>https://josephbales.com/blog/2020/10/18/cleaning-up-this-mess.html</link>
-        <guid isPermaLink="true">https://josephbales.com/blog/2020/10/18/cleaning-up-this-mess.html</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>Two+ Years of Updates</title>
-        <description>&lt;p&gt;Wow, time really flies when you’re having fun. It’s been over two years since my last update, so let’s see how some of the things I’ve talked about in the past have evolved.. er.. intelligently designed?&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Two+ Years of Updates</title>
+   <link rel="alternate" href="https://josephbales.com/blog/2019/12/05/Two-Years-of-Updates.html"/>
+   <updated>2019-12-05T00:00:00+00:00</updated>
+   <id>https://josephbales.com/blog/2019/12/05/Two-Years-of-Updates</id>
+   <summary>Wow, time really flies when you’re having fun. It’s been over two years since my last update, so let’s see how some of the things I’ve talked about in the past have evolved.. er.. intelligently designed? Regarding career politicians in Tennessee, two out of three career politicians in Tennessee are...</summary>
+   <content type="html">&lt;p&gt;Wow, time really flies when you’re having fun. It’s been over two years since my last update, so let’s see how some of the things I’ve talked about in the past have evolved.. er.. intelligently designed?&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;/blog/2013/04/21/primary-challengers-wanted.html&quot;&gt;Regarding career politicians in Tennessee&lt;/a&gt;, two out of three career politicians in Tennessee are still in office.&lt;/li&gt;
@@ -48,17 +57,16 @@
 &lt;/ul&gt;
 
 &lt;p&gt;So what’s new? I got divorced and now I am living by myself in a one bedroom apartment in Nashville, TN that costs twice what it did 10 years ago. Progress?&lt;/p&gt;
-</description>
-        <pubDate>Thu, 05 Dec 2019 00:00:00 +0000</pubDate>
-        <link>https://josephbales.com/blog/2019/12/05/Two-Years-of-Updates.html</link>
-        <guid isPermaLink="true">https://josephbales.com/blog/2019/12/05/Two-Years-of-Updates.html</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>.NET Core 1.0 Not Ready for Primetime</title>
-        <description>&lt;p&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;&amp;lt;rant&amp;gt;&lt;/code&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>.NET Core 1.0 Not Ready for Primetime</title>
+   <link rel="alternate" href="https://josephbales.com/blog/2017/01/13/NET-Core-1.0-Not-Ready-for-Primetime.html"/>
+   <updated>2017-01-13T00:00:00+00:00</updated>
+   <id>https://josephbales.com/blog/2017/01/13/NET-Core-1.0-Not-Ready-for-Primetime</id>
+   <summary>&lt;rant&gt; Well, I just spent two hours of my life getting a project running that was already working on another PC. I’m so fed up right now that I don’t really want to work on the actual project. It is an ASP.NET Core 1.0 project that I’ve been working on...</summary>
+   <content type="html">&lt;p&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;&amp;lt;rant&amp;gt;&lt;/code&gt;&lt;/p&gt;
 
 &lt;p&gt;Well, I just spent two hours of my life getting a project running that was already working on another PC. I’m so fed up right now that I don’t really want to work on the actual project. It is an ASP.NET Core 1.0 project that I’ve been working on a few minutes at a time for the past couple of months. I’ve made so little progress that when I started running into trouble I thought about just creating a new project from scratch and copying over the files. But without a guarantee that the new project would work I decided that was not a very good solution.&lt;/p&gt;
 
@@ -77,17 +85,16 @@
 &lt;p&gt;Also, while I’m ranting about Microsoft products, let me just say that their sculpt keyboard and mouse combo is not great. You can check out my review at &lt;a href=&quot;https://www.amazon.com/gp/customer-reviews/R207405EDO9X04?ref_=cm_cr_arp_d_rvw_ttl&amp;amp;ASIN=B00CYX53QW&amp;amp;pldnSite=1&quot;&gt;this link&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;&amp;lt;/rant&amp;gt;&lt;/code&gt;&lt;/p&gt;
-</description>
-        <pubDate>Fri, 13 Jan 2017 00:00:00 +0000</pubDate>
-        <link>https://josephbales.com/blog/2017/01/13/NET-Core-1.0-Not-Ready-for-Primetime.html</link>
-        <guid isPermaLink="true">https://josephbales.com/blog/2017/01/13/NET-Core-1.0-Not-Ready-for-Primetime.html</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>MVCGrid.Net</title>
-        <description>&lt;p&gt;I didn’t want an entire year to go by without writing a post, so I thought that I would talk a little bit about a neat little tool I found for displaying grid data in ASP.NET MVC 5 projects. It’s called &lt;a href=&quot;http://mvcgrid.net/&quot; title=&quot;MVCGrid.Net&quot;&gt;MVCGrid.Net&lt;/a&gt;. I say “neat little tool,” but it’s actually quite powerful now that I know more about how to use it.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>MVCGrid.Net</title>
+   <link rel="alternate" href="https://josephbales.com/blog/2016/12/12/Free-Grid-Sorting-in-ASP.NET-MVC-5.html"/>
+   <updated>2016-12-12T00:00:00+00:00</updated>
+   <id>https://josephbales.com/blog/2016/12/12/Free-Grid-Sorting-in-ASP.NET-MVC-5</id>
+   <summary>I didn’t want an entire year to go by without writing a post, so I thought that I would talk a little bit about a neat little tool I found for displaying grid data in ASP.NET MVC 5 projects. It’s called MVCGrid.Net. I say “neat little tool,” but it’s actually...</summary>
+   <content type="html">&lt;p&gt;I didn’t want an entire year to go by without writing a post, so I thought that I would talk a little bit about a neat little tool I found for displaying grid data in ASP.NET MVC 5 projects. It’s called &lt;a href=&quot;http://mvcgrid.net/&quot; title=&quot;MVCGrid.Net&quot;&gt;MVCGrid.Net&lt;/a&gt;. I say “neat little tool,” but it’s actually quite powerful now that I know more about how to use it.&lt;/p&gt;
 
 &lt;p&gt;For styling it uses &lt;a href=&quot;http://getbootstrap.com/&quot; title=&quot;Bootstrap&quot;&gt;Bootstrap&lt;/a&gt; so that makes it easy for me since I already use Bootstrap for basic styling. It also includes a DLL where most of the magic happens and the configuration happens in a &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;MVCGridConfig.cs&lt;/code&gt; file that you include in your &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;App_Start&lt;/code&gt; folder.&lt;/p&gt;
 
@@ -96,17 +103,16 @@
 &lt;p&gt;One page that might get overlooked in the documentation is the Custom Razor View page. It doesn’t have a direct link on the documentation table of contents. It’s actually buried in one of the other pages, but here’s the &lt;a href=&quot;http://mvcgrid.net/demo/customrazorview&quot; title=&quot;Link to Custom Razor Views&quot;&gt;link&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;The best thing is that it is free, open source (using the MIT license), and fairly well documented. Check it out if you are in need of something to help you get sortable grids up and running quickly in ASP.NET MVC 5.&lt;/p&gt;
-</description>
-        <pubDate>Mon, 12 Dec 2016 00:00:00 +0000</pubDate>
-        <link>https://josephbales.com/blog/2016/12/12/Free-Grid-Sorting-in-ASP.NET-MVC-5.html</link>
-        <guid isPermaLink="true">https://josephbales.com/blog/2016/12/12/Free-Grid-Sorting-in-ASP.NET-MVC-5.html</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>Error converting data type DBTYPE_DBTIMESTAMP to datetime2</title>
-        <description>&lt;p&gt;Okay, so here is a post that has been months in the making.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Error converting data type DBTYPE_DBTIMESTAMP to datetime2</title>
+   <link rel="alternate" href="https://josephbales.com/blog/2015/09/15/error-converting-data-type-dbtype_dbtimestamp-to-datetime2.html"/>
+   <updated>2015-09-15T00:00:00+00:00</updated>
+   <id>https://josephbales.com/blog/2015/09/15/error-converting-data-type-dbtype_dbtimestamp-to-datetime2</id>
+   <summary>Okay, so here is a post that has been months in the making. Lately I’ve been working on an ETL project, mostly the E and T parts. The project involves exporting data from a database via an ODBC driver (AcuODBC to be exact). I don’t have any control over the database being accessed other...</summary>
+   <content type="html">&lt;p&gt;Okay, so here is a post that has been months in the making.&lt;/p&gt;
 
 &lt;p&gt;Lately I’ve been working on an &lt;a href=&quot;https://en.wikipedia.org/wiki/Extract,_transform,_load&quot; target=&quot;_blank&quot;&gt;ETL&lt;/a&gt; project, mostly the E and T parts. The project involves exporting data from a database via an &lt;a href=&quot;https://en.wikipedia.org/wiki/Open_Database_Connectivity&quot; target=&quot;_blank&quot;&gt;ODBC&lt;/a&gt; driver (&lt;a href=&quot;http://supportline.microfocus.com/Documentation/AcucorpProducts/docs/v6_online_doc/acuodbc/acuodbct.htm&quot; target=&quot;_blank&quot;&gt;AcuODBC&lt;/a&gt; to be exact). I don’t have any control over the database being accessed other than being able to extract data and neither the client nor I have much knowledge of how the database actually works. For my part I just know that I can access it via the AcuODBC driver.&lt;/p&gt;
 
@@ -139,17 +145,16 @@
     &lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
 &lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-</description>
-        <pubDate>Tue, 15 Sep 2015 00:00:00 +0000</pubDate>
-        <link>https://josephbales.com/blog/2015/09/15/error-converting-data-type-dbtype_dbtimestamp-to-datetime2.html</link>
-        <guid isPermaLink="true">https://josephbales.com/blog/2015/09/15/error-converting-data-type-dbtype_dbtimestamp-to-datetime2.html</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>Setting up Apache Virtual Hosts on FreeBSD 10.1</title>
-        <description>&lt;p&gt;I’ve been messing around on &lt;a title=&quot;The DigitalOcean website&quot; href=&quot;http://digitalocean.com&quot; target=&quot;_blank&quot;&gt;DigitalOcean&lt;/a&gt; with a &lt;a title=&quot;FreeBSD website&quot; href=&quot;http://freebsd.org&quot; target=&quot;_blank&quot;&gt;FreeBSD&lt;/a&gt; 10.1 droplet. First let me say that FreeBSD is awesome. The thing that I like the most about the BSDs is that they don’t beat about the bush when it comes to making an OS because the purpose of each BSD &lt;em&gt;is&lt;/em&gt; the OS. My main comparison is to Linux based OSes, which are awesome in their own way, but feel a bit splintered. With the BSDs it’s not just a kernel with a bunch of GNU apps thrown at it to make it usable, they take great pains to produce a complete OS. So when I need to know how to do something on FreeBSD, there’s probably already a darn good document out there with detailed instructions. Hell, you rarely have to go outside the FreeBSD manual unless you’re doing something really complex. It just works and that’s great!&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Setting up Apache Virtual Hosts on FreeBSD 10.1</title>
+   <link rel="alternate" href="https://josephbales.com/blog/2015/04/03/setting-up-apache-virtual-hosts-on-freebsd-10-1.html"/>
+   <updated>2015-04-03T00:00:00+00:00</updated>
+   <id>https://josephbales.com/blog/2015/04/03/setting-up-apache-virtual-hosts-on-freebsd-10-1</id>
+   <summary>I’ve been messing around on DigitalOcean with a FreeBSD 10.1 droplet. First let me say that FreeBSD is awesome. The thing that I like the most about the BSDs is that they don’t beat about the bush when it comes to making an OS because the purpose of each BSD is the...</summary>
+   <content type="html">&lt;p&gt;I’ve been messing around on &lt;a title=&quot;The DigitalOcean website&quot; href=&quot;http://digitalocean.com&quot; target=&quot;_blank&quot;&gt;DigitalOcean&lt;/a&gt; with a &lt;a title=&quot;FreeBSD website&quot; href=&quot;http://freebsd.org&quot; target=&quot;_blank&quot;&gt;FreeBSD&lt;/a&gt; 10.1 droplet. First let me say that FreeBSD is awesome. The thing that I like the most about the BSDs is that they don’t beat about the bush when it comes to making an OS because the purpose of each BSD &lt;em&gt;is&lt;/em&gt; the OS. My main comparison is to Linux based OSes, which are awesome in their own way, but feel a bit splintered. With the BSDs it’s not just a kernel with a bunch of GNU apps thrown at it to make it usable, they take great pains to produce a complete OS. So when I need to know how to do something on FreeBSD, there’s probably already a darn good document out there with detailed instructions. Hell, you rarely have to go outside the FreeBSD manual unless you’re doing something really complex. It just works and that’s great!&lt;/p&gt;
 
 &lt;p&gt;Now on to why I’m writing this post. I was wanting to set up Apache on my FreeBSD 10.1 machine to serve up 3 different websites. In the Apache world this is called Virtual Hosts. So let us say that we have 3 different addresses, but only one IP, now what? Virtual Hosts, and specifically Named Virtual Hosts. Configuration is dead simple.&lt;/p&gt;
 
@@ -183,17 +188,16 @@ DocumentRoot /usr/local/www/apache24/data/example2.com
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 
 &lt;p&gt;And it’s that simple! For more detailed documentation on Virtual Hosts you should read the official &lt;a title=&quot;Apache Virtual Hosts documentation link&quot; href=&quot;http://httpd.apache.org/docs/2.4/vhosts/&quot; target=&quot;_blank&quot;&gt;Apache documentation&lt;/a&gt;. Have fun with it!&lt;/p&gt;
-</description>
-        <pubDate>Fri, 03 Apr 2015 00:00:00 +0000</pubDate>
-        <link>https://josephbales.com/blog/2015/04/03/setting-up-apache-virtual-hosts-on-freebsd-10-1.html</link>
-        <guid isPermaLink="true">https://josephbales.com/blog/2015/04/03/setting-up-apache-virtual-hosts-on-freebsd-10-1.html</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>The purpose of Twitter Bootstrap</title>
-        <description>&lt;p&gt;Okay, so I rarely make websites or blog anymore. I’ll admit that I’ve fallen a bit out of touch with regard to the latest and greatest web technologies. But I’ve surprised even myself in the amount of time it has taken for me to understand &lt;a title=&quot;Twitter Bootstrap&quot; href=&quot;http://getbootstrap.com&quot; target=&quot;_blank&quot;&gt;Bootstrap&lt;/a&gt;.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>The purpose of Twitter Bootstrap</title>
+   <link rel="alternate" href="https://josephbales.com/blog/2014/12/08/the-purpose-of-twitter-bootstrap.html"/>
+   <updated>2014-12-08T00:00:00+00:00</updated>
+   <id>https://josephbales.com/blog/2014/12/08/the-purpose-of-twitter-bootstrap</id>
+   <summary>Okay, so I rarely make websites or blog anymore. I’ll admit that I’ve fallen a bit out of touch with regard to the latest and greatest web technologies. But I’ve surprised even myself in the amount of time it has taken for me to understand Bootstrap. In case you didn’t...</summary>
+   <content type="html">&lt;p&gt;Okay, so I rarely make websites or blog anymore. I’ll admit that I’ve fallen a bit out of touch with regard to the latest and greatest web technologies. But I’ve surprised even myself in the amount of time it has taken for me to understand &lt;a title=&quot;Twitter Bootstrap&quot; href=&quot;http://getbootstrap.com&quot; target=&quot;_blank&quot;&gt;Bootstrap&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;In case you didn’t know, Bootstrap is a web framework. No, I wouldn’t go that far. It’s more like a web layout framework. Bootstrap helps take your dowdy, old site and make it look like something a professional web designer might throw together in an afternoon (this is a compliment to web designers from someone who couldn’t design their way out of a wet paper bag).&lt;/p&gt;
 
@@ -202,17 +206,16 @@ DocumentRoot /usr/local/www/apache24/data/example2.com
 &lt;p&gt;The power comes not from what Bootstrap does, it comes from what I don’t have to do (and this is the part that took me so long to figure out). I don’t have to write style sheets anymore. That’s it.  But whoa, THAT’S IT! I used to spend HOURS (days even) tweaking this and nudging that, opening the &lt;a title=&quot;The Gimp!&quot; href=&quot;http://www.gimp.org/&quot; target=&quot;_blank&quot;&gt;Gimp&lt;/a&gt; and doing a little on the fly editing, reading &lt;a title=&quot;Pretentious&quot; href=&quot;http://alistapart.com/&quot; target=&quot;_blank&quot;&gt;A List Apart&lt;/a&gt; and &lt;a title=&quot;Nerd cred quantified.&quot; href=&quot;http://stackoverflow.com/&quot; target=&quot;_blank&quot;&gt;Stack Overflow&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;Now when I build a site I vow to do as little of that crap as possible. Now I’m going to use Bootstrap for what it was intended: to leave the style to designers and let the blogger/developer blog and develop.&lt;/p&gt;
-</description>
-        <pubDate>Mon, 08 Dec 2014 00:00:00 +0000</pubDate>
-        <link>https://josephbales.com/blog/2014/12/08/the-purpose-of-twitter-bootstrap.html</link>
-        <guid isPermaLink="true">https://josephbales.com/blog/2014/12/08/the-purpose-of-twitter-bootstrap.html</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>Why I&apos;m no longer a Google fanboy</title>
-        <description>&lt;p&gt;I used to be a Google fanboy (my wife is still a Google fangirl). I used to sing their praises and recommend their software and services to anyone who asked for the slightest computer advice. But lately I’ve been rethinking my stance on Google and have started moving in other directions.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Why I'm no longer a Google fanboy</title>
+   <link rel="alternate" href="https://josephbales.com/blog/2014/05/17/why-im-no-longer-a-google-fanboy.html"/>
+   <updated>2014-05-17T00:00:00+00:00</updated>
+   <id>https://josephbales.com/blog/2014/05/17/why-im-no-longer-a-google-fanboy</id>
+   <summary>I used to be a Google fanboy (my wife is still a Google fangirl). I used to sing their praises and recommend their software and services to anyone who asked for the slightest computer advice. But lately I’ve been rethinking my stance on Google and have started moving in other...</summary>
+   <content type="html">&lt;p&gt;I used to be a Google fanboy (my wife is still a Google fangirl). I used to sing their praises and recommend their software and services to anyone who asked for the slightest computer advice. But lately I’ve been rethinking my stance on Google and have started moving in other directions.&lt;/p&gt;
 
 &lt;p&gt;So what did Google do that has put me off? They started sucking at what they used to do best. We’ve known all along that Google’s products are NOT it’s services, but it’s users. Their massive user base and associated user data is where they make the big bucks. They amassed this data by tricking us users into giving it to them and the profit margins are astonishing because we give them all of that information without being compensated one red cent. It is not this fact that put me off. Quite the contrary, it is one hell of a business model. The thing that has put me off is that they aren’t able to trick me into giving them my information for free anymore.&lt;/p&gt;
 
@@ -225,17 +228,16 @@ DocumentRoot /usr/local/www/apache24/data/example2.com
 &lt;p&gt;So I’ve decided to try to become much less reliant on Google services. I’ve already given up on Chrome and replaced it with Firefox. At some point I would like to replace my Android phone with a Windows phone, but that’s probably a few years down the road (if Windows phone is still there). I now use Bing for most of my searching. The main services I use beyond that are Google Play for my music collection, Google Docs, Google Calendar, and Gmail. I’m not sure where I could put my music collection that is accessible as it is on Google Play, but there are multiple alternatives to Docs, Calendar, and Gmail and I am already exploring those. If you have any suggestions on replacements, feel free to contact me.&lt;/p&gt;
 
 &lt;p&gt;I don’t want this blog to become Google bashing central and my intent is not to bash Google. As a company Google is no better or worse than any other large corporation. I’m simply stating what my issues with Google are and why I am personally trying to move in another direction. The simple fact is they just aren’t capturing my enthusiasm anymore.&lt;/p&gt;
-</description>
-        <pubDate>Sat, 17 May 2014 00:00:00 +0000</pubDate>
-        <link>https://josephbales.com/blog/2014/05/17/why-im-no-longer-a-google-fanboy.html</link>
-        <guid isPermaLink="true">https://josephbales.com/blog/2014/05/17/why-im-no-longer-a-google-fanboy.html</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>Deleting Your Google Apps for Your Domain Account</title>
-        <description>&lt;p&gt;Okay, I spent about an hour trying to figure this out and finally did it. Google does not make deleting information easy because that information is their product. So the documentation about this particular subject is very sparse and ultimately I got what I needed from a obscure post in one of Google’s product forums. I’m posting this here for posterity.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Deleting Your Google Apps for Your Domain Account</title>
+   <link rel="alternate" href="https://josephbales.com/blog/2013/11/29/deleting-your-google-apps-for-your-domain-account.html"/>
+   <updated>2013-11-29T00:00:00+00:00</updated>
+   <id>https://josephbales.com/blog/2013/11/29/deleting-your-google-apps-for-your-domain-account</id>
+   <summary>Okay, I spent about an hour trying to figure this out and finally did it. Google does not make deleting information easy because that information is their product. So the documentation about this particular subject is very sparse and ultimately I got what I needed from a obscure post in...</summary>
+   <content type="html">&lt;p&gt;Okay, I spent about an hour trying to figure this out and finally did it. Google does not make deleting information easy because that information is their product. So the documentation about this particular subject is very sparse and ultimately I got what I needed from a obscure post in one of Google’s product forums. I’m posting this here for posterity.&lt;/p&gt;
 
 &lt;p&gt;First let me start with how I ended up with a Google Apps account. Several years ago I was going on the road for a while and decided to manage my domain through &lt;a href=&quot;http://wordpress.com&quot; title=&quot;Wordpress&quot; target=&quot;_blank&quot;&gt;Wordpress.com&lt;/a&gt;. One of the features that Wordpress offered was integration with Google Apps. I was a big fan of Gmail at the time, so I signed up so that I could manage my josephbales.com email addresses in Gmail.  I set up one address and forgot about it for 5 years.&lt;/p&gt;
 
@@ -244,17 +246,16 @@ DocumentRoot /usr/local/www/apache24/data/example2.com
 &lt;p&gt;When you search for instructions on how to delete your Google Apps account you get &lt;a href=&quot;https://support.google.com/a/answer/1257646?hl=en&quot; target=&quot;_blank&quot;&gt;this url&lt;/a&gt; as the first result in Google. These instructions are great for anyone who has been actively administering their Google Apps account.  However, if you set your Google Apps account up in 2007 and promptly forgot about it, a few things have changed and these instructions are worthless.&lt;/p&gt;
 
 &lt;p&gt;The real key is figuring out what the administrative user for the account is. If you just have one user, it may not be that user which was what was happening in my case. The admin user is admin@your-domain.com or possibly superuser@your-domain.com (where your-domain.com is your actual domain). The user “admin” worked for me.  Instead of signing in as my normal user, I signed in as admin and was able to follow the instructions for the search results I mentioned above. It might help to do this in Privacy Mode in whatever browser you happen to be using, just to make sure browser cookies are not accidentally logging you in as someone else.  Hope this helps all you people out there.&lt;/p&gt;
-</description>
-        <pubDate>Fri, 29 Nov 2013 00:00:00 +0000</pubDate>
-        <link>https://josephbales.com/blog/2013/11/29/deleting-your-google-apps-for-your-domain-account.html</link>
-        <guid isPermaLink="true">https://josephbales.com/blog/2013/11/29/deleting-your-google-apps-for-your-domain-account.html</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>Web’s Dead, Baby: Part 2</title>
-        <description>&lt;p&gt;Well, now that I’ve made you wait a couple of weeks to tell you why the Web is dead, I guess it’s time to disappoint (nothing can live up to that amount of hype). As my one piece of evidence I present &lt;a href=&quot;http://sachachua.com/blog/2013/05/how-to-learn-emacs-a-hand-drawn-one-pager-for-beginners/&quot; target=&quot;_blank&quot;&gt;this link&lt;/a&gt;. Go ahead, look at it. I’ll wait.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Web’s Dead, Baby: Part 2</title>
+   <link rel="alternate" href="https://josephbales.com/blog/2013/06/12/webs-dead-baby-part-2.html"/>
+   <updated>2013-06-12T00:00:00+00:00</updated>
+   <id>https://josephbales.com/blog/2013/06/12/webs-dead-baby-part-2</id>
+   <summary>Well, now that I’ve made you wait a couple of weeks to tell you why the Web is dead, I guess it’s time to disappoint (nothing can live up to that amount of hype). As my one piece of evidence I present this link. Go ahead, look at it. I’ll...</summary>
+   <content type="html">&lt;p&gt;Well, now that I’ve made you wait a couple of weeks to tell you why the Web is dead, I guess it’s time to disappoint (nothing can live up to that amount of hype). As my one piece of evidence I present &lt;a href=&quot;http://sachachua.com/blog/2013/05/how-to-learn-emacs-a-hand-drawn-one-pager-for-beginners/&quot; target=&quot;_blank&quot;&gt;this link&lt;/a&gt;. Go ahead, look at it. I’ll wait.&lt;/p&gt;
 
 &lt;p&gt;…&lt;/p&gt;
 
@@ -275,13 +276,69 @@ DocumentRoot /usr/local/www/apache24/data/example2.com
 &lt;p&gt;Apps are putting up walls where the web had previously broke them down. Before the web, AOL, Prodigy, CompuServe, etc. all served up their own private content, and if you didn’t subscribe, you didn’t even have access to it. Apps are doing the same thing. To view and create content through certain services, you have to have their app. And some apps are iPhone only, or Android only, or only available on certain phone carriers. This isn’t progression, it’s regression. We are literally traveling back in time to the land of AOL and the private BBS.&lt;/p&gt;
 
 &lt;p&gt;Sure, the web is still around, and it will be for years and years to come, but it’s dead. Like magma that has cooled and solidified, the web sits and awaits its fate. And the freedom and the openness of the web? They’re slipping away too. The time when all you needed was a browser window to look into the vastness of all human intellect is fading into history. So when your grandkids ask you what the web was, you’ll just tell them, “&lt;a href=&quot;http://youtu.be/y7Yp2L6c2KM&quot; target=&quot;_blank&quot;&gt;The Web’s dead, baby. The Web’s dead.&lt;/a&gt;”&lt;/p&gt;
-</description>
-        <pubDate>Wed, 12 Jun 2013 00:00:00 +0000</pubDate>
-        <link>https://josephbales.com/blog/2013/06/12/webs-dead-baby-part-2.html</link>
-        <guid isPermaLink="true">https://josephbales.com/blog/2013/06/12/webs-dead-baby-part-2.html</guid>
-        
-        
-      </item>
-    
-  </channel>
-</rss>
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Web’s Dead, Baby: Part 1</title>
+   <link rel="alternate" href="https://josephbales.com/blog/2013/05/26/webs-dead-baby-part-1.html"/>
+   <updated>2013-05-26T00:00:00+00:00</updated>
+   <id>https://josephbales.com/blog/2013/05/26/webs-dead-baby-part-1</id>
+   <summary>Twenty two years is a good run for most technology these days. In fact it’s a phenomenal run. That’s how long the World Wide Web has been in existence. But I’m here today to tell you that the web as we know it is DEAD! (The irony of making this...</summary>
+   <content type="html">&lt;p&gt;Twenty two years is a good run for most technology these days. In fact it’s a phenomenal run. That’s how long the &lt;a href=&quot;http://en.wikipedia.org/wiki/World_Wide_Web&quot; target=&quot;_blank&quot;&gt;World Wide Web&lt;/a&gt; has been in existence. But I’m here today to tell you that the web as we know it is DEAD! (The irony of making this statement in a weblog post does not escape me.) What killed the web? How did it die? Is this the end of all things? Come close and I’ll tell you the story of the end of the web, but first, a little history.&lt;/p&gt;
+
+&lt;p&gt;The web has become synonymous with the &lt;a href=&quot;http://en.wikipedia.org/wiki/Internet&quot; target=&quot;_blank&quot;&gt;Internet&lt;/a&gt;. When people today talk about the Internet, they are talking about the World Wide Web (henceforth, I’ll just call it the web). But the Internet is actually more than just the web. It is a large network of computers that use a number of protocols and services to exchange information. &lt;a href=&quot;http://en.wikipedia.org/wiki/Email&quot; target=&quot;_blank&quot;&gt;Email&lt;/a&gt; is the prime example often given of a non-web Internet service, although it can now be accessed through the web. The Internet is more the connections between the computers than it is the content. Here are a list of some Internet services, both living and dead, that you might know.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://en.wikipedia.org/wiki/Usenet&quot; target=&quot;_blank&quot;&gt;Usenet&lt;/a&gt; - This is the original Internet discussion forum. Thousands of Usenet groups were created for topics ranging from computing to German fetish porn. In fact the web was &lt;a href=&quot;http://en.wikipedia.org/wiki/History_of_the_World_Wide_Web&quot; target=&quot;_blank&quot;&gt;first announced&lt;/a&gt; on a group called alt.hypertext.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://en.wikipedia.org/wiki/Gopher_(protocol)&quot; target=&quot;_blank&quot;&gt;Gopher&lt;/a&gt; - This is a (mostly) dead Internet service that was very similar to the early web. It was text based like the early web, but instead of &lt;a href=&quot;http://en.wikipedia.org/wiki/Hyperlinks&quot; target=&quot;_blank&quot;&gt;hyperlinks&lt;/a&gt;, it used numbered menus for navigation. (I am old enough to remember and have used Gopher. I actually preferred it to the web in my early Internet dealings.)&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://en.wikipedia.org/wiki/Irc&quot; target=&quot;_blank&quot;&gt;Internet Relay Chat (IRC)&lt;/a&gt; - Before Facetime, Hangouts, Skype, or even AIM and Yahoo Messenger, IRC was where people came to chat with other netizens (remember when that was a word?).&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://en.wikipedia.org/wiki/Ftp&quot; target=&quot;_blank&quot;&gt;File Transfer Protocol (FTP)&lt;/a&gt; - This was an early, and still in use Internet protocol for file sharing. In the days before &lt;a href=&quot;http://en.wikipedia.org/wiki/BitTorrent&quot; target=&quot;_blank&quot;&gt;BitTorrent&lt;/a&gt; and the Pirate Bay, anonymous FTP servers were where the pirates went to trade their &lt;a href=&quot;http://en.wikipedia.org/wiki/Warez&quot; target=&quot;_blank&quot;&gt;warez&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Before the web these were the main services that were used on the Internet. They were all text based and text information was the main thing being shared on most of them. If you wanted a richer multimedia experience, early Internet consumers turned to services like &lt;a href=&quot;http://en.wikipedia.org/wiki/AOL#History&quot; target=&quot;_blank&quot;&gt;America Online&lt;/a&gt;, &lt;a href=&quot;http://en.wikipedia.org/wiki/Compuserve&quot; target=&quot;_blank&quot;&gt;CompuServe&lt;/a&gt;, and &lt;a href=&quot;http://en.wikipedia.org/wiki/Prodigy_(online_service)&quot; target=&quot;_blank&quot;&gt;Prodigy&lt;/a&gt;. They offered &lt;a href=&quot;http://en.wikipedia.org/wiki/Walled_garden_(technology)&quot; target=&quot;_blank&quot;&gt;walled gardens&lt;/a&gt; of multimedia content.&lt;/p&gt;
+
+&lt;p&gt;But then came the web. At first it was text based too, but multimedia was quickly added. With the advent of the graphical &lt;a href=&quot;http://en.wikipedia.org/wiki/Mosaic_(web_browser)&quot; target=&quot;_blank&quot;&gt;Mosaic web browser&lt;/a&gt;, then &lt;a href=&quot;http://en.wikipedia.org/wiki/Netscape_Navigator&quot; target=&quot;_blank&quot;&gt;Netscape Navigator&lt;/a&gt;, and finally &lt;a href=&quot;http://en.wikipedia.org/wiki/Internet_Explorer&quot; target=&quot;_blank&quot;&gt;Internet Explorer&lt;/a&gt;, the web took off like a rocket. Standards bodies were set up and mostly agreed upon and the golden age of the web began.&lt;/p&gt;
+
+&lt;p&gt;From the mid-90s to about the year 2000 the web grew at a tremendous rate, but after that the newness started to wear off. People began to wonder what was next for the web. In 1999 a new term was coined, &lt;a href=&quot;http://en.wikipedia.org/wiki/Web_2.0&quot; target=&quot;_blank&quot;&gt;Web 2.0&lt;/a&gt;. This term referred to the use of dynamic content on web sites (until that point most web content was just static content on a page). Web 2.0 allowed the web consumer to interact with content. We were on the verge of a new golden age, but there was a threat. After crushing Netscape Navigator in the &lt;a href=&quot;http://en.wikipedia.org/wiki/Browser_wars&quot; target=&quot;_blank&quot;&gt;great browser wars&lt;/a&gt;, Microsoft allowed it’s browser Internet Explorer to languish. Innovation ground to a halt and web developers spent most of their time writing around rendering errors in IE’s browsing engine. Finally, in 2003 a new web browser called Firefox rose from the ashes to challenge IE and allowed Web 2.0 to reach its full potential.&lt;/p&gt;
+
+&lt;p&gt;Okay, now the history lesson’s over. We get to the heart of it in Part 2!&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>SC-01, Have you no shame?</title>
+   <link rel="alternate" href="https://josephbales.com/blog/2013/05/10/sc-01-have-you-no-shame.html"/>
+   <updated>2013-05-10T00:00:00+00:00</updated>
+   <id>https://josephbales.com/blog/2013/05/10/sc-01-have-you-no-shame</id>
+   <summary>For those of you living in South Carolina’s first congressional district, I have one question. Have you no shame? Mark Sanford’s re-election to his former post as your U.S. Representative would be laughable if it didn’t show the utter ignorance, hypocracy, and blind loyalty of 54% of the voters of...</summary>
+   <content type="html">&lt;p&gt;For those of you living in South Carolina’s first congressional district, I have one question. Have you no shame?&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://en.wikipedia.org/wiki/Mark_Sanford&quot; title=&quot;A Hypocrite&apos;s&quot; target=&quot;_blank&quot;&gt;Mark Sanford’s&lt;/a&gt; re-election to his former post as your U.S. Representative would be laughable if it didn’t show the utter ignorance, hypocracy, and blind loyalty of 54% of the voters of that district. These results, combined with the 2012 re-election of TN-04 Rep. &lt;a href=&quot;http://en.wikipedia.org/wiki/Scott_DesJarlais&quot; title=&quot;Liar&quot; target=&quot;_blank&quot;&gt;Scott DesJarlais&lt;/a&gt;, show that most people voting Republican are doing so strictly because there is an (R) behind the name on the ballot.&lt;/p&gt;
+
+&lt;p&gt;Let me break it down for you. Mark Sanford is a dirty liar. He took off on a trip to Argentina to see his mistress and told everyone he was hiking the Appalachian Trail. While he was governor… of a state. So if there had been an emergency like a tornado outbreak, terrorist attack, or tsunami, ol’ Mark would have had to span a quarter of the globe to get back home. This alone should have gotten him impeached (and it nearly did).&lt;/p&gt;
+
+&lt;p&gt;He’s a corrupt hypocrite too. On an earlier trip, he used state funds for his jaunt to Argentina. In his defense he did pay all that money back, but not until the scandal broke and a reporter dug it up. Additionally, &lt;a href=&quot;http://www.cbsnews.com/stories/2009/08/09/politics/main5228211.shtml&quot; target=&quot;_blank&quot;&gt;he used state aircraf&lt;/a&gt;t for other personal and political trips, including one to get a haircut… in violation of SC state law. So much for integrity and so much for fiscal responsibility (which is what he ran on in his most recent campaign).&lt;/p&gt;
+
+&lt;p&gt;This guy is a low down, despicable person who really needed to fade into obscurity and never be heard from again. For the life of me, I cannot fathom how in the world this guy even won his primary, let alone won his election.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Primary Challengers Wanted</title>
+   <link rel="alternate" href="https://josephbales.com/blog/2013/04/21/primary-challengers-wanted.html"/>
+   <updated>2013-04-21T00:00:00+00:00</updated>
+   <id>https://josephbales.com/blog/2013/04/21/primary-challengers-wanted</id>
+   <summary>I’m from Tennessee and if we know one thing, it’s how to create terrible, awful politicians. I’d love to see many of our local politicians voted out. Unfortunately, our populace is fairly uneducated and apathetic when it comes to politics. They are used to going into the voting booth and...</summary>
+   <content type="html">&lt;p&gt;I’m from Tennessee and if we know one thing, it’s how to create terrible, awful politicians. I’d love to see many of our local politicians voted out. Unfortunately, our populace is fairly uneducated and apathetic when it comes to politics. They are used to going into the voting booth and voting for a (D) or (R). The only real hope we have that awful people will get voted out is a primary challenge (or retirement, but nobody’s going to be doing us any favors there). Here are my top 3 &lt;del datetime=&quot;2013-04-22T02:43:33+00:00&quot;&gt;douche bags&lt;/del&gt; problematic candidates that deserve a boot.&lt;/p&gt;
+
+&lt;p&gt;Problematic Candidate #1: Stacey Campfield. This guy is notorious not only in Tennessee, but in the nation as a whole. He’s probably most famous as the “&lt;a href=&quot;http://www.huffingtonpost.com/2013/01/30/tennessee-dont-say-gay-bill_n_2582390.html&quot; title=&quot;Don&apos;t Say Gay bill&quot; target=&quot;_blank&quot;&gt;Don’t Say Gay&lt;/a&gt;” guy, but more recently he attempted to pass some welfare “reform” that would &lt;a href=&quot;http://www.tennessean.com/article/20130412/NEWS0201/304110082/Sen-Stacey-Campfield-withdraws-welfare-bill-after-run-girl-protesters&quot; title=&quot;Campfield&apos;s terrible welfare bill&quot; target=&quot;_blank&quot;&gt;reduce the benefits of parents whose children are not doing well in school&lt;/a&gt;. Umm, there are about a billion things we can do to help those kids do better in school, but taking away what little money their family has coming in is not one of those things. In fact many children in such situations already have terrible home lives, and making them responsible for the income of the family is NOT something that is going to make school work any easier for them. He represents Knoxville in the Tennessee State Senate and he needs to GO! This is my official call to any Republican willing to take this guy on. As long as you aren’t an even bigger &lt;del datetime=&quot;2013-04-22T02:56:22+00:00&quot;&gt;douche bag&lt;/del&gt; problematic candidate, I’ll do what I can to help you win your primary.&lt;/p&gt;
+
+&lt;p&gt;Problematic Candidate #2: Scott Dejarlais. Dr. Dejarlais (how he still has a medical license is beyond me) is just a hypocrite. This &lt;a href=&quot;http://www.huffingtonpost.com/2012/11/15/scott-desjarlais-approved_n_2140171.html&quot; title=&quot;Scott&apos;s bad things&quot; target=&quot;_blank&quot;&gt;pro-life, family values candidate&lt;/a&gt; encouraged two ex-mistresses and his ex-wife to get abortions and also had multiple ethically questionable things going on in his medical career. Fortunately, the Tennessee Republicans were on top of this one as soon as the election (which he somehow won, proving that people indeed just vote for the party and not the candidate) was over. There are already several candidates lined up to give him a good primary challenge. I’ll be surprised if we see this guy back in Washington after the next election.&lt;/p&gt;
+
+&lt;p&gt;Problematic Candidate #3: Jim Cooper. Cooper is the TN-05 Representative in Washington. He runs as a Democrat, but his actions are more old Southern Democrat rather than the newer, more progressive Democrats we are used to. If a bill involves any kind of spending increase, Jim will vote against it, including &lt;a href=&quot;http://www.nashvillescene.com/pitw/archives/2013/01/16/cooper-on-sandy-vote-i-hate-voting-with-the-republicans-but-congress-has-to-do-the-right-thing-for-the-country&quot; title=&quot;Really?&quot; target=&quot;_blank&quot;&gt;Hurricane Sandy relief&lt;/a&gt;. While Jim Cooper has been a target since at least &lt;a href=&quot;http://www.salon.com/2009/09/25/various_matters_4/&quot; title=&quot;Salon was working on it&quot; target=&quot;_blank&quot;&gt;2009&lt;/a&gt;, no one has been able to mount a successful challenge to this Nashville Democrat’s name recognition juggernaut. Hell, even I held my nose and voted for him in the last general election despite a decent Green Party alternative. I’m not sure I will do that again. Since he basically votes Republican anyway, it wouldn’t really be any different having an actual Republican in the seat and might allow a real Democrat to step up in a following election.&lt;/p&gt;
+</content>
+ </entry>
+ 
+
+</feed>
