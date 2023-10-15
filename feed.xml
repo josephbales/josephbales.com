@@ -6,7 +6,7 @@
  <link href="https://josephbales.com/feed.xml" rel="self"/>
  <link href="https://josephbales.com/" rel="alternate"/>
  <subtitle></subtitle>
- <updated>2023-07-24T03:50:04+00:00</updated>
+ <updated>2023-10-15T14:48:26+00:00</updated>
  <id>https://josephbales.com/</id>
  <author>
    <name></name>
@@ -14,6 +14,35 @@
  </author>
  <rights type="text">Copyright © 2023 . All rights reserved.</rights>
 
+ 
+ <entry>
+   <title>Advice for Local Businesses</title>
+   <link rel="alternate" href="https://josephbales.com/blog/2023/10/15/advice-for-local-businesses.html"/>
+   <updated>2023-10-15T00:00:00+00:00</updated>
+   <id>https://josephbales.com/blog/2023/10/15/advice-for-local-businesses</id>
+   <summary>Dear local businesses, First and foremost, thanks for being there. However, I do have some advice I’d like to throw your way. You need a website. Facebook and other social media pages just don’t cut it. The website is not a one time fixed cost, it’s an ongoing marketing expense....</summary>
+   <content type="html">&lt;p&gt;Dear local businesses,&lt;/p&gt;
+
+&lt;p&gt;First and foremost, thanks for being there. However, I do have some advice I’d like to throw your way.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;You need a website. Facebook and other social media pages just don’t cut it.&lt;/li&gt;
+  &lt;li&gt;The website is not a one time fixed cost, it’s an ongoing marketing expense.&lt;/li&gt;
+  &lt;li&gt;The website should be up to date, I recommend checking it at least once a month for accuracy.&lt;/li&gt;
+  &lt;li&gt;Do not put a contact form or contact email on your site unless you plan to respond within 1 business day.&lt;/li&gt;
+  &lt;li&gt;Do not put a phone number with voicemail on your site unless you plan to respond within 1 business day.
+    &lt;ul&gt;
+      &lt;li&gt;Delete old messages so that your voicemail does not fill up.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;List your preferred method of contact on the website.&lt;/li&gt;
+  &lt;li&gt;List your business hours on the website.&lt;/li&gt;
+  &lt;li&gt;List pricing or estimates on your website.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Do these simple things and it can only help you grow.&lt;/p&gt;
+</content>
+ </entry>
  
  <entry>
    <title>More De-Googling</title>
